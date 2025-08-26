@@ -1,0 +1,3221 @@
+VISATON AL 130 - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 85.6dBFrequency response 43 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 43HzMechanical quality factor QMS 4.37Electrical quality factor QES 0.42Total quality factor QTS 0.38
+
+Large signal parameters
+
+    Maximum linear excursion xmax 6mmMaximum excursion before damage xlim 8.5mmAir volume displaced at xmax VD 47cm³Power handling P 60WProgram power Pmax 90W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.6ΩInductance (1kHz) LE 0.9mHVC Diameter 25mmWinding height HVC 18mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 5.6N/AMotor constant Bl/√RE 2.37N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 100mmEffective area SD 79cm²Moving mass MMS 9gMoving mass (without air load) MMD 8.5g
+
+Suspensions
+
+    Stiffness KMS 0.681N/mmCompliance CMS 1469µm/NEquivalent volume to the compliance VAS 13LMechanical resistance RMS 0.56N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 115mmVolume occupied by the driver (estimated) 0.4LNet weight 1.0kg
+    
+    
+#############################################################################################
+
+
+VISATON AL 130 M - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.4dBFrequency response 57 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 57HzMechanical quality factor QMS 4.39Electrical quality factor QES 0.52Total quality factor QTS 0.46
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3mmMaximum excursion before damage xlim 5.5mmAir volume displaced at xmax VD 24cm³Power handling P 60WProgram power Pmax 90W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.4ΩInductance (1kHz) LE 0.8mHVC Diameter 25mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 5.6N/AMotor constant Bl/√RE 2.41N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 100mmEffective area SD 79cm²Moving mass MMS 7.4gMoving mass (without air load) MMD 6.9g
+
+Suspensions
+
+    Stiffness KMS 0.973N/mmCompliance CMS 1028µm/NEquivalent volume to the compliance VAS 9.1LMechanical resistance RMS 0.6N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 115mmVolume occupied by the driver (estimated) 0.4LNet weight 1.0kg
+    
+#############################################################################################
+
+VISATON AL 170 - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.6dBFrequency response 38 - 10000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 38HzMechanical quality factor QMS 3.88Electrical quality factor QES 0.43Total quality factor QTS 0.39
+
+Large signal parameters
+
+    Maximum linear excursion xmax 6mmMaximum excursion before damage xlim 11mmAir volume displaced at xmax VD 80cm³Power handling P 70WProgram power Pmax 100W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.6ΩInductance (1kHz) LE 0.9mHVC Diameter 25mmWinding height HVC 18mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 6.9N/AMotor constant Bl/√RE 2.92N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 130mmEffective area SD 133cm²Moving mass MMS 13gMoving mass (without air load) MMD 11.8g
+
+Suspensions
+
+    Stiffness KMS 0.738N/mmCompliance CMS 1355µm/NEquivalent volume to the compliance VAS 34LMechanical resistance RMS 0.8N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 150mmVolume occupied by the driver (estimated) 0.48LNet weight 1.2kg
+    
+  #############################################################################################
+  
+    VISATON AL 200 - 8 Ohm 8Ω
+    
+    Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.8dBFrequency response 32 - 9000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 32HzMechanical quality factor QMS 3.73Electrical quality factor QES 0.39Total quality factor QTS 0.35
+
+Large signal parameters
+
+    Maximum linear excursion xmax 7mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 151cm³Power handling P 120WProgram power Pmax 180W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.6ΩInductance (1kHz) LE 1.2mHVC Diameter 38mmWinding height HVC 20mm
+
+Magnet
+
+    Flux density B 1.3TForce factor Bl 8.8N/AMotor constant Bl/√RE 3.43N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 166mmEffective area SD 216cm²Moving mass MMS 21gMoving mass (without air load) MMD 18.7g
+
+Suspensions
+
+    Stiffness KMS 0.859N/mmCompliance CMS 1164µm/NEquivalent volume to the compliance VAS 77LMechanical resistance RMS 1.13N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 190mmVolume occupied by the driver (estimated) 1LNet weight 2.5kg
+    
+
+#############################################################################################    
+VISATON B 100 - 6 Ohm 6Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.3dBFrequency response 75 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 75HzMechanical quality factor QMS 10.13Electrical quality factor QES 0.54Total quality factor QTS 0.52
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.7mmMaximum excursion before damage xlim 7mmAir volume displaced at xmax VD 9.2cm³Power handling P 30WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 6ΩDC resistance RE 5.8ΩInductance (1kHz) LE 0.36mHVC Diameter 26mmWinding height HVC 6.3mm
+
+Magnet
+
+    Flux density B 1.29TForce factor Bl 4.1N/AMotor constant Bl/√RE 1.7N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 83mmEffective area SD 54.1cm²Moving mass MMS 3.2gMoving mass (without air load) MMD 2.9g
+
+Suspensions
+
+    Stiffness KMS 0.781N/mmCompliance CMS 1280µm/NEquivalent volume to the compliance VAS 5.27LMechanical resistance RMS 0.15N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 101mmVolume occupied by the driver (estimated) 0.26LNet weight 0.68kg
+
+
+#############################################################################################    
+
+VISATON B 200 - 6 Ohm 6Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.3dBFrequency response 40 - 18000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 40HzMechanical quality factor QMS 8.39Electrical quality factor QES 0.83Total quality factor QTS 0.75
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmAir volume displaced at xmax VD 43cm³Power handling P 40WProgram power Pmax 70W
+
+Voice Coil
+
+    Nominal impedance Z 6ΩDC resistance RE 5.0ΩInductance (1kHz) LE 0.5mHVC Diameter 25mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 3.9N/AMotor constant Bl/√RE 1.74N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 165mmEffective area SD 214cm²Moving mass MMS 9.7gMoving mass (without air load) MMD 7.5g
+
+Suspensions
+
+    Stiffness KMS 0.637N/mmCompliance CMS 1570µm/NEquivalent volume to the compliance VAS 102LMechanical resistance RMS 0.29N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 190mmVolume occupied by the driver (estimated) 0.89LNet weight 2.16kg
+
+#############################################################################################    
+VISATON B 80 - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.3dBFrequency response 80 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 110HzMechanical quality factor QMS 6.53Electrical quality factor QES 0.69Total quality factor QTS 0.63
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2.3mmAir volume displaced at xmax VD 8.9cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.6ΩInductance (1kHz, estimated) LE 0.29mHVC Diameter 25mmWinding height HVC 7.5mm
+
+Magnet
+
+    Flux density B 1.17TForce factor Bl 4.15N/AMotor constant Bl/√RE 1.62N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 70mmEffective area SD 38.5cm²Moving mass MMS 2.8gMoving mass (without air load) MMD 2.6g
+
+Suspensions
+
+    Stiffness KMS 1.15N/mmCompliance CMS 870µm/NEquivalent volume to the compliance VAS 1.8LMechanical resistance RMS 0.3N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 89mmVolume occupied by the driver (estimated) 0.12LNet weight 0.32kg
+#############################################################################################    
+VISATON BG 13 P - 8 Ohm 8Ω
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.8dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 168HzMechanical quality factor QMS 3.06Electrical quality factor QES 1.58Total quality factor QTS 1.04
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 5.4cm³Power handling P 20WProgram power Pmax 40W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.2ΩInductance (1kHz) LE 0.65mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.2N/AMotor constant Bl/√RE 1.4N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 93mmEffective area SD 68cm²Moving mass MMS 3gMoving mass (without air load) MMD 2.6g
+
+Suspensions
+
+    Stiffness KMS 3.28N/mmCompliance CMS 305µm/NEquivalent volume to the compliance VAS 2LMechanical resistance RMS 1.03N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 110mmVolume occupied by the driver (estimated) 0.16LNet weight 0.43kg
+
+#############################################################################################    
+VISATON BG 17 - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.8dBFrequency response 80 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 2.94Electrical quality factor QES 0.98Total quality factor QTS 0.74
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 22cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.3ΩInductance (1kHz) LE 0.7mHVC Diameter 20mmWinding height HVC 7mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 5.7N/AMotor constant Bl/√RE 2.27N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 135mmEffective area SD 143cm²Moving mass MMS 6.5gMoving mass (without air load) MMD 5.3g
+
+Suspensions
+
+    Stiffness KMS 3.53N/mmCompliance CMS 283µm/NEquivalent volume to the compliance VAS 8.2LMechanical resistance RMS 1.67N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 160mmBaffle cutout diameter 146mmVolume occupied by the driver (estimated) 0.28LNet weight 0.72kg
+#############################################################################################    
+VISATON BG 20 - 8 Ohm 8Ω
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.7dBFrequency response 38 - 18000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 38HzMechanical quality factor QMS 3.47Electrical quality factor QES 0.51Total quality factor QTS 0.44
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 43cm³Power handling P 40WProgram power Pmax 70W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.2ΩInductance (1kHz) LE 0.8mHVC Diameter 25mmWinding height HVC 8mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 6.1N/AMotor constant Bl/√RE 2.45N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 165mmEffective area SD 214cm²Moving mass MMS 10gMoving mass (without air load) MMD 7.8g
+
+Suspensions
+
+    Stiffness KMS 0.591N/mmCompliance CMS 1693µm/NEquivalent volume to the compliance VAS 110LMechanical resistance RMS 0.69N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 184mmVolume occupied by the driver (estimated) 0.52LNet weight 1.3kg
+
+#############################################################################################    
+VISATON F 8 SC - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 84.2dBFrequency response 80 - 15000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 125HzMechanical quality factor QMS 2.94Electrical quality factor QES 1.29Total quality factor QTS 0.90
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 2.4cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.9ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 2.2N/AMotor constant Bl/√RE 0.78N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 62mmEffective area SD 30cm²Moving mass MMS 2gMoving mass (without air load) MMD 1.9g
+
+Suspensions
+
+    Stiffness KMS 1.28N/mmCompliance CMS 783µm/NEquivalent volume to the compliance VAS 1LMechanical resistance RMS 0.53N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 76mmNet weight 0.25kg
+#############################################################################################    
+VISATON FR 10 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.3dBFrequency response 80 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 90HzMechanical quality factor QMS 2.29Electrical quality factor QES 0.70Total quality factor QTS 0.54
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 7.5cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.2ΩInductance (1kHz) LE 0.2mHVC Diameter 20mmWinding height HVC 6mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 4.6N/AMotor constant Bl/√RE 2.57N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 5.7gMoving mass (without air load) MMD 5.4g
+
+Suspensions
+
+    Stiffness KMS 1.54N/mmCompliance CMS 649µm/NEquivalent volume to the compliance VAS 2.3LMechanical resistance RMS 1.41N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 100mmVolume occupied by the driver (estimated) 0.14LNet weight 0.38kg
+#############################################################################################    
+VISATON FR 10 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 82.9dBFrequency response 80 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 90HzMechanical quality factor QMS 2.29Electrical quality factor QES 0.95Total quality factor QTS 0.67
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 7.5cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.2mHVC Diameter 20mmWinding height HVC 6mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 4.6N/AMotor constant Bl/√RE 1.71N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 5.7gMoving mass (without air load) MMD 5.4g
+
+Suspensions
+
+    Stiffness KMS 1.54N/mmCompliance CMS 649µm/NEquivalent volume to the compliance VAS 2.3LMechanical resistance RMS 1.41N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 100mmVolume occupied by the driver (estimated) 0.14LNet weight 0.38kg
+#############################################################################################    
+VISATON FR 10 F - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.6dBFrequency response 100 - 22000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 133HzMechanical quality factor QMS 6.50Electrical quality factor QES 1.99Total quality factor QTS 1.52
+
+Large signal parameters
+
+    Maximum excursion before damage xlim 4mmPower handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.7ΩInductance (1kHz) LE 0.35mHVC Diameter 14mm
+
+Magnet
+
+    Force factor Bl 1.7N/AMotor constant Bl/√RE 0.88N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 81mmEffective area SD 52cm²Moving mass MMS 2.4gMoving mass (without air load) MMD 2.1g
+
+Suspensions
+
+    Stiffness KMS 1.74N/mmCompliance CMS 574µm/NEquivalent volume to the compliance VAS 2.2LMechanical resistance RMS 0.31N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 94mmVolume occupied by the driver (estimated) 0.14LNet weight 0.2kg
+
+#############################################################################################    
+VISATON FR 10 HM - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.5dBFrequency response 95 - 22000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 5.35Electrical quality factor QES 1.44Total quality factor QTS 1.13
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 7.5cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.2ΩInductance (1kHz) LE 0.2mHVC Diameter 14mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 2.1N/AMotor constant Bl/√RE 1.17N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 2.7gMoving mass (without air load) MMD 2.4g
+
+Suspensions
+
+    Stiffness KMS 1.69N/mmCompliance CMS 592µm/NEquivalent volume to the compliance VAS 2.1LMechanical resistance RMS 0.38N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 94mmVolume occupied by the driver (estimated) 0.13LNet weight 0.34kg
+#############################################################################################    
+VISATON FR 10 HM - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.8dBFrequency response 95 - 22000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 5.89Electrical quality factor QES 1.91Total quality factor QTS 1.44
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 7.5cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.2mHVC Diameter 14mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 2.9N/AMotor constant Bl/√RE 1.08N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 2.8gMoving mass (without air load) MMD 2.5g
+
+Suspensions
+
+    Stiffness KMS 1.77N/mmCompliance CMS 564µm/NEquivalent volume to the compliance VAS 2LMechanical resistance RMS 0.36N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 94mmVolume occupied by the driver (estimated) 0.13LNet weight 0.34kg
+#############################################################################################    
+VISATON FR 10 WP - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.2dBFrequency response 80 - 16000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 3.13Electrical quality factor QES 2.14Total quality factor QTS 1.27
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 2.5cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.8ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 0.85TForce factor Bl 2.75N/AMotor constant Bl/√RE 1.41N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 5gMoving mass (without air load) MMD 4.7gMaterial Waterproof
+
+Suspensions
+
+    Stiffness KMS 1.69N/mmCompliance CMS 592µm/NEquivalent volume to the compliance VAS 2.1LMechanical resistance RMS 1.2N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 101mmVolume occupied by the driver (estimated) 0.1LNet weight 0.275kg
+
+#############################################################################################    
+VISATON FR 12 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.1dBFrequency response 70 - 18000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 110HzMechanical quality factor QMS 5.61Electrical quality factor QES 2.80Total quality factor QTS 1.87
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 7cm³Power handling P 15WProgram power Pmax 40W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.1mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 1.7N/AMotor constant Bl/√RE 0.92N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 105mmEffective area SD 87cm²Moving mass MMS 3.8gMoving mass (without air load) MMD 3.2g
+
+Suspensions
+
+    Stiffness KMS 1.24N/mmCompliance CMS 810µm/NEquivalent volume to the compliance VAS 8.7LMechanical resistance RMS 0.47N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 114mmVolume occupied by the driver (estimated) 0.1LNet weight 0.284kg
+#############################################################################################    
+VISATON FR 12 - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90dBFrequency response 70 - 18000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 110HzMechanical quality factor QMS 5.61Electrical quality factor QES 2.80Total quality factor QTS 1.87
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 7cm³Power handling P 15WProgram power Pmax 40W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 0.22mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 1.7N/AMotor constant Bl/√RE 0.65N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 105mmEffective area SD 87cm²Moving mass MMS 3.8gMoving mass (without air load) MMD 3.2g
+
+Suspensions
+
+    Stiffness KMS 1.24N/mmCompliance CMS 810µm/NEquivalent volume to the compliance VAS 8.7LMechanical resistance RMS 0.47N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 114mmVolume occupied by the driver (estimated) 0.1LNet weight 0.284kg
+
+#############################################################################################    
+VISATON FR 13 - 4 Ohm 4Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.9dBFrequency response 65 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 100HzMechanical quality factor QMS 5.17Electrical quality factor QES 1.64Total quality factor QTS 1.25
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 13cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.2mHVC Diameter 20mmWinding height HVC 6mm
+
+Magnet
+
+    Flux density B 0.85TForce factor Bl 2.3N/AMotor constant Bl/√RE 1.25N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 105mmEffective area SD 87cm²Moving mass MMS 4.5gMoving mass (without air load) MMD 3.9g
+
+Suspensions
+
+    Stiffness KMS 1.76N/mmCompliance CMS 568µm/NEquivalent volume to the compliance VAS 6.1LMechanical resistance RMS 0.55N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 116mmVolume occupied by the driver (estimated) 0.11LNet weight 0.29kg
+#############################################################################################    
+VISATON FR 13 WP - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.1dBFrequency response 70 - 16000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 100HzMechanical quality factor QMS 2.49Electrical quality factor QES 2.19Total quality factor QTS 1.17
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 3.9cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.8ΩInductance (1kHz) LE 0.4mHVC Diameter 20mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 0.85TForce factor Bl 2.3N/AMotor constant Bl/√RE 1.18N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 100mmEffective area SD 78cm²Moving mass MMS 4.8gMoving mass (without air load) MMD 4.3gMaterial Waterproof
+
+Suspensions
+
+    Stiffness KMS 1.96N/mmCompliance CMS 510µm/NEquivalent volume to the compliance VAS 4.4LMechanical resistance RMS 1.21N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 112mmVolume occupied by the driver (estimated) 0.11LNet weight 0.29kg
+#############################################################################################    
+VISATON FR 16 WP - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.9dBFrequency response 60 - 15000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 85HzMechanical quality factor QMS 2.99Electrical quality factor QES 1.55Total quality factor QTS 1.02
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmAir volume displaced at xmax VD 13cm³Power handling P 60WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.7ΩInductance (1kHz) LE 0.4mHVC Diameter 20mmWinding height HVC 6mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.2N/AMotor constant Bl/√RE 1.66N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 129mmEffective area SD 130cm²Moving mass MMS 8.4gMoving mass (without air load) MMD 7.3gMaterial Waterproof
+
+Suspensions
+
+    Stiffness KMS 2.4N/mmCompliance CMS 417µm/NEquivalent volume to the compliance VAS 10LMechanical resistance RMS 1.5N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 160mmBaffle cutout diameter 142mmVolume occupied by the driver (estimated) 0.16LNet weight 0.42kg
+
+#############################################################################################    
+
+VISATON FR 58 - 8 Ohm 8Ω
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 81.9dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 190HzMechanical quality factor QMS 2.41Electrical quality factor QES 1.64Total quality factor QTS 0.98
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.6mmMaximum excursion before damage xlim 5.5mmAir volume displaced at xmax VD 0.8cm³Power handling P 10WProgram power Pmax 12W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.3ΩInductance (1kHz) LE 0.15mHVC Diameter 14mmWinding height HVC 3.5mm
+
+Magnet
+
+    Force factor Bl 2.27N/AMotor constant Bl/√RE 0.84N/√WAir gap height HAG 2.4mm
+
+Diaphragm
+
+    Effective diameter 41mmEffective area SD 13.2cm²Moving mass MMS 0.97gMoving mass (without air load) MMD 0.9g
+
+Suspensions
+
+    Stiffness KMS 1.37N/mmCompliance CMS 728µm/NEquivalent volume to the compliance VAS 0.18LMechanical resistance RMS 0.48N·s/m
+
+Dimensions
+
+    Nominal diameter 2.3″ 58mmBaffle cutout diameter 57mmNet weight 0.13kg
+#############################################################################################    
+VISATON FR 6,5" - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 91.6dBFrequency response 70 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 75HzMechanical quality factor QMS 4.94Electrical quality factor QES 3.26Total quality factor QTS 1.96
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.1mmMaximum excursion before damage xlim 3mmAir volume displaced at xmax VD 1.3cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 0.8mHVC Diameter 20mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.75TForce factor Bl 2.5N/AMotor constant Bl/√RE 0.96N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 128mmEffective area SD 129cm²Moving mass MMS 5.9gMoving mass (without air load) MMD 4.8g
+
+Suspensions
+
+    Stiffness KMS 1.48N/mmCompliance CMS 678µm/NEquivalent volume to the compliance VAS 16LMechanical resistance RMS 0.56N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 160mmBaffle cutout diameter 143mmVolume occupied by the driver (estimated) 0.18LNet weight 0.47kg
+  
+#############################################################################################    
+VISATON FR 8 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.3dBFrequency response 130 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 150HzMechanical quality factor QMS 5.38Electrical quality factor QES 1.30Total quality factor QTS 1.05
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 3cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.3mHVC Diameter 15mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.4TForce factor Bl 2.1N/AMotor constant Bl/√RE 1.14N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 62mmEffective area SD 30cm²Moving mass MMS 1.6gMoving mass (without air load) MMD 1.5g
+
+Suspensions
+
+    Stiffness KMS 2.13N/mmCompliance CMS 470µm/NEquivalent volume to the compliance VAS 0.6LMechanical resistance RMS 0.28N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 75mmNet weight 0.24kg
+#############################################################################################    
+VISATON FR 8 - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.7dBFrequency response 130 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 150HzMechanical quality factor QMS 5.30Electrical quality factor QES 1.38Total quality factor QTS 1.09
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 3cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.4ΩInductance (1kHz) LE 0.6mHVC Diameter 15mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.4TForce factor Bl 2.5N/AMotor constant Bl/√RE 0.92N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 62mmEffective area SD 30cm²Moving mass MMS 1.7gMoving mass (without air load) MMD 1.6g
+
+Suspensions
+
+    Stiffness KMS 1.83N/mmCompliance CMS 548µm/NEquivalent volume to the compliance VAS 0.7LMechanical resistance RMS 0.3N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 75mmNet weight 0.24kg
+
+#############################################################################################    
+VISATON FR 87 - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.7dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 137HzMechanical quality factor QMS 6.40Electrical quality factor QES 1.56Total quality factor QTS 1.25
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.6mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 2.2cm³Power handling P 15WProgram power Pmax 20W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.5ΩInductance (1kHz) LE 0.2mHVC Diameter 15mmWinding height HVC 4.3mm
+
+Magnet
+
+    Force factor Bl 2.1N/AMotor constant Bl/√RE 1.12N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 69mmEffective area SD 37cm²Moving mass MMS 2gMoving mass (without air load) MMD 1.8g
+
+Suspensions
+
+    Stiffness KMS 1.49N/mmCompliance CMS 670µm/NEquivalent volume to the compliance VAS 1.3LMechanical resistance RMS 0.27N·s/m
+
+Dimensions
+
+    Nominal diameter 3.4″ 87mmBaffle cutout diameter 80mmNet weight 0.21kg
+
+#############################################################################################    
+VISATON FR 8 JS - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 84.6dBFrequency response 80 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 130HzMechanical quality factor QMS 4.30Electrical quality factor QES 1.74Total quality factor QTS 1.24
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 3cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.6mHVC Diameter 15mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.4TForce factor Bl 2.77N/AMotor constant Bl/√RE 1.03N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 62mmEffective area SD 30cm²Moving mass MMS 2.3gMoving mass (without air load) MMD 2.2gMaterial Waterproof
+
+Suspensions
+
+    Stiffness KMS 1.52N/mmCompliance CMS 658µm/NEquivalent volume to the compliance VAS 0.84LMechanical resistance RMS 0.44N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 75mmNet weight 0.24kg
+#############################################################################################    
+VISATON FR 8 WP - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.9dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 158HzMechanical quality factor QMS 2.62Electrical quality factor QES 1.33Total quality factor QTS 0.88
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 3mmAir volume displaced at xmax VD 1.5cm³Power handling P 15WProgram power Pmax 25W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 4.1ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 2.8N/AMotor constant Bl/√RE 1.38N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 62mmEffective area SD 30cm²Moving mass MMS 2.9gMoving mass (without air load) MMD 2.8gMaterial Waterproof
+
+Suspensions
+
+    Stiffness KMS 3.2N/mmCompliance CMS 313µm/NEquivalent volume to the compliance VAS 0.4LMechanical resistance RMS 1.1N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 74mmNet weight 0.23kg
+#############################################################################################    
+VISATON FR 9.15 - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 91.4dBFrequency response 75 - 16000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 8.90Electrical quality factor QES 2.29Total quality factor QTS 1.82
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 7.9cm³Power handling P 15WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.5ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 2.3N/AMotor constant Bl/√RE 1.23N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 100mmEffective area SD 79cm²Moving mass MMS 4.6gMoving mass (without air load) MMD 4.3g
+
+Suspensions
+
+    Stiffness KMS 3.05N/mmCompliance CMS 328µm/NEquivalent volume to the compliance VAS 2.9LMechanical resistance RMS 0.39N·s/m
+
+Dimensions
+
+    Nominal size 4 x 6″ 90 x 150mmMounting baffle cutout 87 x 146mmVolume occupied by the driver (estimated) 0.1LNet weight 0.277kg
+
+#############################################################################################    
+VISATON FRS 10 WP - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.7dBFrequency response 90 - 19000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 190HzMechanical quality factor QMS 8.29Electrical quality factor QES 1.02Total quality factor QTS 0.91
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 3mmAir volume displaced at xmax VD 5.7cm³Power handling P 25WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.2mHVC Diameter 20mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.8N/AMotor constant Bl/√RE 2.06N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 85mmEffective area SD 57cm²Moving mass MMS 2.4gMoving mass (without air load) MMD 2.1g
+
+Suspensions
+
+    Stiffness KMS 2.3N/mmCompliance CMS 434µm/NEquivalent volume to the compliance VAS 2LMechanical resistance RMS 0.35N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 92mmVolume occupied by the driver (estimated) 0.13LNet weight 0.36kg
+#############################################################################################    
+VISATON FRS 10 WP - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.7dBFrequency response 90 - 19000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 190HzMechanical quality factor QMS 7.60Electrical quality factor QES 1.12Total quality factor QTS 0.98
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 3mmAir volume displaced at xmax VD 5.7cm³Power handling P 25WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.4ΩInductance (1kHz) LE 0.4mHVC Diameter 20mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 4.3N/AMotor constant Bl/√RE 1.7N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 85mmEffective area SD 57cm²Moving mass MMS 3gMoving mass (without air load) MMD 2.7g
+
+Suspensions
+
+    Stiffness KMS 2.43N/mmCompliance CMS 412µm/NEquivalent volume to the compliance VAS 1.9LMechanical resistance RMS 0.47N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 92mmVolume occupied by the driver (estimated) 0.13LNet weight 0.36kg
+#############################################################################################    
+VISATON FRS 5 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 84.8dBFrequency response 150 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 290HzMechanical quality factor QMS 3.19Electrical quality factor QES 1.81Total quality factor QTS 1.15
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.6mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 0.7cm³Power handling P 5WProgram power Pmax 8W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.2mHVC Diameter 14mmWinding height HVC 3.7mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 1.6N/AMotor constant Bl/√RE 0.6N/√WAir gap height HAG 2.5mm
+
+Diaphragm
+
+    Effective diameter 39mmEffective area SD 12cm²Moving mass MMS 0.5gMoving mass (without air load) MMD 0.5g
+
+Suspensions
+
+    Stiffness KMS 1.28N/mmCompliance CMS 783µm/NEquivalent volume to the compliance VAS 0.16LMechanical resistance RMS 0.29N·s/m
+
+Dimensions
+
+    Nominal diameter 2″ 50mmBaffle cutout diameter 46mmNet weight 0.126kg
+#############################################################################################    
+VISATON FRS 5 X - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.7dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 190HzMechanical quality factor QMS 3.49Electrical quality factor QES 0.88Total quality factor QTS 0.70
+
+Large signal parameters
+
+    Power handling P 5WProgram power Pmax 8W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.7ΩInductance (1kHz, estimated) LE 0.13mHVC Diameter 14mm
+
+Magnet
+
+    Force factor Bl 2.67N/AMotor constant Bl/√RE 0.96N/√W
+
+Diaphragm
+
+    Effective diameter 40mmEffective area SD 12.5cm²Moving mass MMS 0.7gMoving mass (without air load) MMD 0.7g
+
+Suspensions
+
+    Stiffness KMS 0.963N/mmCompliance CMS 1038µm/NEquivalent volume to the compliance VAS 0.23LMechanical resistance RMS 0.24N·s/m
+
+Dimensions
+
+    Nominal diameter 2″ 50mmBaffle cutout diameter 46mmNet weight 0.14kg
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#############################################################################################    
+VISATON FRS 5 XTS - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.7dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 190HzMechanical quality factor QMS 3.49Electrical quality factor QES 0.88Total quality factor QTS 0.70
+
+Large signal parameters
+
+    Power handling P 5WProgram power Pmax 8W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.7ΩInductance (1kHz, estimated) LE 0.13mHVC Diameter 14mm
+
+Magnet
+
+    Force factor Bl 2.67N/AMotor constant Bl/√RE 0.96N/√W
+
+Diaphragm
+
+    Effective diameter 40mmEffective area SD 12.5cm²Moving mass MMS 0.7gMoving mass (without air load) MMD 0.7g
+
+Suspensions
+
+    Stiffness KMS 0.963N/mmCompliance CMS 1038µm/NEquivalent volume to the compliance VAS 0.23LMechanical resistance RMS 0.24N·s/m
+
+Dimensions
+
+    Nominal diameter 2″ 50mmBaffle cutout diameter 46mmNet weight 0.14kg
+#############################################################################################    
+VISATON FRS 7 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.5dBFrequency response 200 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 250HzMechanical quality factor QMS 3.21Electrical quality factor QES 1.96Total quality factor QTS 1.22
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 1.8cm³Power handling P 8WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz) LE 0.3mHVC Diameter 14mmWinding height HVC 3.5mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 1.7N/AMotor constant Bl/√RE 0.9N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 53mmEffective area SD 22cm²Moving mass MMS 0.8gMoving mass (without air load) MMD 0.7g
+
+Suspensions
+
+    Stiffness KMS 2.29N/mmCompliance CMS 437µm/NEquivalent volume to the compliance VAS 0.3LMechanical resistance RMS 0.39N·s/m
+
+Dimensions
+
+    Nominal diameter 2.5″ 65mmBaffle cutout diameter 61mmNet weight 0.2kg
+#############################################################################################    
+VISATON FRS 7 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.4dBFrequency response 200 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 250HzMechanical quality factor QMS 3.32Electrical quality factor QES 2.08Total quality factor QTS 1.28
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 1.8cm³Power handling P 8WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.6mHVC Diameter 14mmWinding height HVC 3.5mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 2.1N/AMotor constant Bl/√RE 0.78N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 53mmEffective area SD 22cm²Moving mass MMS 0.8gMoving mass (without air load) MMD 0.7g
+
+Suspensions
+
+    Stiffness KMS 2.29N/mmCompliance CMS 437µm/NEquivalent volume to the compliance VAS 0.3LMechanical resistance RMS 0.38N·s/m
+
+Dimensions
+
+    Nominal diameter 2.5″ 65mmBaffle cutout diameter 61mmNet weight 0.2kg
+#############################################################################################    
+VISATON FRS 7 S - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.9dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 150HzMechanical quality factor QMS 5.38Electrical quality factor QES 2.01Total quality factor QTS 1.46
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 3.3cm³Power handling P 8WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.6mHVC Diameter 14mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 1.8N/AMotor constant Bl/√RE 0.67N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 53mmEffective area SD 22cm²Moving mass MMS 0.8gMoving mass (without air load) MMD 0.7g
+
+Suspensions
+
+    Stiffness KMS 0.763N/mmCompliance CMS 1311µm/NEquivalent volume to the compliance VAS 0.9LMechanical resistance RMS 0.14N·s/m
+
+Dimensions
+
+    Nominal diameter 2.5″ 65mmBaffle cutout diameter 61mmNet weight 0.2kg
+#############################################################################################    
+VISATON FRS 7 W - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.2dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 160HzMechanical quality factor QMS 2.08Electrical quality factor QES 0.91Total quality factor QTS 0.63
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 2.2cm³Power handling P 8WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.6ΩInductance (1kHz, estimated) LE 0.14mHVC Diameter 14mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 2.5N/AMotor constant Bl/√RE 0.97N/√WAir gap height HAG 2.5mm
+
+Diaphragm
+
+    Effective diameter 53mmEffective area SD 22cm²Moving mass MMS 0.9gMoving mass (without air load) MMD 0.8g
+
+Suspensions
+
+    Stiffness KMS 0.88N/mmCompliance CMS 1136µm/NEquivalent volume to the compliance VAS 0.78LMechanical resistance RMS 0.43N·s/m
+
+Dimensions
+
+    Nominal diameter 2.5″ 65mmBaffle cutout diameter 61mmNet weight 0.22kg
+
+#############################################################################################    
+VISATON FRS 8 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.9dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 3.61Electrical quality factor QES 0.85Total quality factor QTS 0.69
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 1.6cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.5ΩInductance (1kHz) LE 0.4mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 2.2N/AMotor constant Bl/√RE 1.18N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 63mmEffective area SD 31cm²Moving mass MMS 2.5gMoving mass (without air load) MMD 2.4g
+
+Suspensions
+
+    Stiffness KMS 1.36N/mmCompliance CMS 734µm/NEquivalent volume to the compliance VAS 1LMechanical resistance RMS 0.52N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 73mmVolume occupied by the driver (estimated) 0.1LNet weight 0.28kg
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+#############################################################################################    
+VISATON FRS 8 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 84.7dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 4.85Electrical quality factor QES 1.32Total quality factor QTS 1.04
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 2.5mmAir volume displaced at xmax VD 1.6cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.9mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 3.2N/AMotor constant Bl/√RE 1.19N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 63mmEffective area SD 31cm²Moving mass MMS 2.5gMoving mass (without air load) MMD 2.4g
+
+Suspensions
+
+    Stiffness KMS 1.52N/mmCompliance CMS 660µm/NEquivalent volume to the compliance VAS 0.9LMechanical resistance RMS 0.39N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 73mmVolume occupied by the driver (estimated) 0.1LNet weight 0.28kg
+#############################################################################################    
+VISATON FRS 8 M - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.8dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 125HzMechanical quality factor QMS 3.24Electrical quality factor QES 0.58Total quality factor QTS 0.49
+
+Large signal parameters
+
+    Maximum excursion before damage xlim 2.5mmPower handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 4.5mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 4N/AMotor constant Bl/√RE 1.49N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 61mmEffective area SD 29cm²Moving mass MMS 1.8gMoving mass (without air load) MMD 1.7g
+
+Suspensions
+
+    Stiffness KMS 1.09N/mmCompliance CMS 922µm/NEquivalent volume to the compliance VAS 1.1LMechanical resistance RMS 0.44N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 75mmVolume occupied by the driver (estimated) 0.19LNet weight 0.5kg
+#############################################################################################    
+VISATON FRWS 5 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.6dBFrequency response 150 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 250HzMechanical quality factor QMS 2.48Electrical quality factor QES 2.50Total quality factor QTS 1.24
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.4mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 0.5cm³Power handling P 4WProgram power Pmax 10W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz) LE 0.08mHVC Diameter 14mmWinding height HVC 2.7mm
+
+Magnet
+
+    Flux density B 0.75TForce factor Bl 1.1N/AMotor constant Bl/√RE 0.58N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 39mmEffective area SD 12cm²Moving mass MMS 0.5gMoving mass (without air load) MMD 0.5g
+
+Suspensions
+
+    Stiffness KMS 1.02N/mmCompliance CMS 979µm/NEquivalent volume to the compliance VAS 0.2LMechanical resistance RMS 0.32N·s/m
+
+Dimensions
+
+    Nominal diameter 2″ 50mmBaffle cutout diameter 45mmNet weight 0.1kg
+#############################################################################################    
+VISATON FRWS 5 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.1dBFrequency response 150 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 250HzMechanical quality factor QMS 3.31Electrical quality factor QES 3.22Total quality factor QTS 1.63
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.4mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 0.5cm³Power handling P 4WProgram power Pmax 10W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 0.1mHVC Diameter 14mmWinding height HVC 2.7mm
+
+Magnet
+
+    Flux density B 0.75TForce factor Bl 1.4N/AMotor constant Bl/√RE 0.54N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 39mmEffective area SD 12cm²Moving mass MMS 0.5gMoving mass (without air load) MMD 0.5g
+
+Suspensions
+
+    Stiffness KMS 2.04N/mmCompliance CMS 490µm/NEquivalent volume to the compliance VAS 0.1LMechanical resistance RMS 0.24N·s/m
+
+Dimensions
+
+    Nominal diameter 2″ 50mmBaffle cutout diameter 45mmNet weight 0.1kg
+#############################################################################################    
+VISATON GF 200 - 2 x 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.3dBFrequency response 30 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 30HzMechanical quality factor QMS 4.12Electrical quality factor QES 0.37Total quality factor QTS 0.34
+
+Large signal parameters
+
+    Maximum linear excursion xmax 6mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 128cm³Power handling P 120WProgram power Pmax 180W
+
+Voice Coil
+
+    Nominal impedance Z 2 x 4ΩDC resistance (in series) RE 5.8ΩInductance (1kHz, in series) LE 1.1mHVC Diameter 38mmWinding height HVC 18mm
+
+Magnet
+
+    Flux density B 1.3TForce factor (in series) Bl 9.2N/AMotor constant Bl/√RE 3.82N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 165mmEffective area SD 214cm²Moving mass MMS 25gMoving mass (without air load) MMD 22.8g
+
+Suspensions
+
+    Stiffness KMS 0.955N/mmCompliance CMS 1047µm/NEquivalent volume to the compliance VAS 68LMechanical resistance RMS 1.14N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 190mmVolume occupied by the driver (estimated) 1LNet weight 2.5kg
+
+#############################################################################################    
+VISATON HX 10 - 4 Ohm 4Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.8dBFrequency response 50 - 22000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 70HzMechanical quality factor QMS 2.87Electrical quality factor QES 0.61Total quality factor QTS 0.50
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.5mmAir volume displaced at xmax VD 8.3cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 4.3ΩInductance (1kHz, estimated) LE 0.25mHVC Diameter 25mmWinding height HVC 7mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 3.9N/AMotor constant Bl/√RE 1.88N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 55cm²Moving mass MMS 4.3gMoving mass (without air load) MMD 4g
+
+Suspensions
+
+    Stiffness KMS 0.841N/mmCompliance CMS 1189µm/NEquivalent volume to the compliance VAS 5.1LMechanical resistance RMS 0.66N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 101mmVolume occupied by the driver (estimated) 0.2LNet weight 0.52kg
+#############################################################################################    
+VISATON KT 100 V - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 81.6dBFrequency response 32 - 9500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 37HzMechanical quality factor QMS 2.22Electrical quality factor QES 0.54Total quality factor QTS 0.43
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmAir volume displaced at xmax VD 11cm³Power handling P 25WProgram power Pmax 40W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz, estimated) LE 0.3mHVC Diameter 25mmWinding height HVC 7mm
+
+Magnet
+
+    Force factor Bl 3.43N/AMotor constant Bl/√RE 1.81N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 83mmEffective area SD 54.1cm²Moving mass MMS 7.5gMoving mass (without air load) MMD 7.2g
+
+Suspensions
+
+    Stiffness KMS 0.424N/mmCompliance CMS 2361µm/NEquivalent volume to the compliance VAS 9.8LMechanical resistance RMS 0.79N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 92mmVolume occupied by the driver (estimated) 0.18LNet weight 0.466kg
+#############################################################################################    
+VISATON PAW 25 - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 94.1dBFrequency response 52 - 4200Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 52HzMechanical quality factor QMS 9.59Electrical quality factor QES 0.34Total quality factor QTS 0.33
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3.5mmMaximum excursion before damage xlim 8mmAir volume displaced at xmax VD 124cm³Power handling P 300WProgram power Pmax 450W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.5ΩInductance (1kHz) LE 0.9mHVC Diameter 65mmWinding height HVC 15mm
+
+Magnet
+
+    Force factor Bl 15.6N/AMotor constant Bl/√RE 6.12N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 212mmEffective area SD 353cm²Moving mass MMS 37.6gMoving mass (without air load) MMD 33g
+
+Suspensions
+
+    Stiffness KMS 4.17N/mmCompliance CMS 240µm/NEquivalent volume to the compliance VAS 44LMechanical resistance RMS 1.28N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 230mmVolume occupied by the driver (estimated) 1.5LNet weight 3.61kg
+
+#############################################################################################    
+VISATON PAW 30 ND - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 94.2dBFrequency response 45 - 5500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 45HzMechanical quality factor QMS 7.63Electrical quality factor QES 0.37Total quality factor QTS 0.36
+
+Large signal parameters
+
+    Maximum linear excursion xmax 4mmMaximum excursion before damage xlim 8mmAir volume displaced at xmax VD 216cm³Power handling P 400WProgram power Pmax 600W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.1ΩInductance (1kHz) LE 0.55mHVC Diameter 75mmWinding height HVC 16mm
+
+Magnet
+
+    Force factor Bl 17.6N/AMotor constant Bl/√RE 7.13N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 262mmEffective area SD 539cm²Moving mass MMS 69gMoving mass (without air load) MMD 60.5g
+
+Suspensions
+
+    Stiffness KMS 5.26N/mmCompliance CMS 190µm/NEquivalent volume to the compliance VAS 78LMechanical resistance RMS 2.56N·s/m
+
+Dimensions
+
+    Nominal diameter 12″ 300mmBaffle cutout diameter 286mmVolume occupied by the driver (estimated) 1.3LNet weight 3.05kg
+#############################################################################################    
+VISATON PAW 38 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 95.1dBFrequency response 36 - 3700Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 36HzMechanical quality factor QMS 9.00Electrical quality factor QES 0.31Total quality factor QTS 0.29
+
+Large signal parameters
+
+    Maximum linear excursion xmax 5.5mmMaximum excursion before damage xlim 12mmAir volume displaced at xmax VD 494cm³Power handling P 700WProgram power Pmax 1000W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 2.6mHVC Diameter 100mmWinding height HVC 23mm
+
+Magnet
+
+    Force factor Bl 25N/AMotor constant Bl/√RE 9.32N/√WAir gap height HAG 12mm
+
+Diaphragm
+
+    Effective diameter 338mmEffective area SD 898cm²Moving mass MMS 125gMoving mass (without air load) MMD 107g
+
+Suspensions
+
+    Stiffness KMS 5.56N/mmCompliance CMS 180µm/NEquivalent volume to the compliance VAS 195LMechanical resistance RMS 3.14N·s/m
+
+Dimensions
+
+    Nominal diameter 15″ 380mmBaffle cutout diameter 358mmVolume occupied by the driver (estimated) 5.2LNet weight 11.5kg
+#############################################################################################    
+VISATON PAW 46 - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 94.6dBFrequency response 29 - 3200Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 29HzMechanical quality factor QMS 8.97Electrical quality factor QES 0.38Total quality factor QTS 0.36
+
+Large signal parameters
+
+    Maximum linear excursion xmax 4.9mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 593cm³Power handling P 700WProgram power Pmax 1000W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.1ΩInductance (1kHz) LE 1.5mHVC Diameter 100mmWinding height HVC 21.8mm
+
+Magnet
+
+    Force factor Bl 23.6N/AMotor constant Bl/√RE 9.56N/√WAir gap height HAG 12mm
+
+Diaphragm
+
+    Effective diameter 393mmEffective area SD 1210cm²Moving mass MMS 186gMoving mass (without air load) MMD 157g
+
+Suspensions
+
+    Stiffness KMS 6.25N/mmCompliance CMS 160µm/NEquivalent volume to the compliance VAS 325LMechanical resistance RMS 3.78N·s/m
+
+Dimensions
+
+    Nominal diameter 18″ 460mmBaffle cutout diameter 422mmVolume occupied by the driver (estimated) 5.2LNet weight 11.5kg
+
+#############################################################################################    
+VISATON R 10 S - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.6dBFrequency response 100 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 160HzMechanical quality factor QMS 5.53Electrical quality factor QES 1.96Total quality factor QTS 1.45
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 2.8cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.2mHVC Diameter 15mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 1.9N/AMotor constant Bl/√RE 1.03N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 56cm²Moving mass MMS 1.9gMoving mass (without air load) MMD 1.6g
+
+Suspensions
+
+    Stiffness KMS 2.34N/mmCompliance CMS 427µm/NEquivalent volume to the compliance VAS 1.9LMechanical resistance RMS 0.35N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 93mmVolume occupied by the driver (estimated) 0.14LNet weight 0.16kg
+#############################################################################################    
+VISATON R 10 S - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 93.4dBFrequency response 100 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 160HzMechanical quality factor QMS 6.27Electrical quality factor QES 2.92Total quality factor QTS 1.99
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 2.8cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.5mHVC Diameter 15mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 2N/AMotor constant Bl/√RE 0.75N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 56cm²Moving mass MMS 2gMoving mass (without air load) MMD 1.7g
+
+Suspensions
+
+    Stiffness KMS 2.62N/mmCompliance CMS 382µm/NEquivalent volume to the compliance VAS 1.7LMechanical resistance RMS 0.32N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 93mmVolume occupied by the driver (estimated) 0.14LNet weight 0.16kg
+
+#############################################################################################    
+VISATON R 10 SC - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 91.6dBFrequency response 100 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 165HzMechanical quality factor QMS 6.40Electrical quality factor QES 1.67Total quality factor QTS 1.32
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 2.8cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz) LE 0.2mHVC Diameter 15mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 2N/AMotor constant Bl/√RE 1.05N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 56cm²Moving mass MMS 1.9gMoving mass (without air load) MMD 1.6g
+
+Suspensions
+
+    Stiffness KMS 1.71N/mmCompliance CMS 585µm/NEquivalent volume to the compliance VAS 2.6LMechanical resistance RMS 0.31N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 93mmVolume occupied by the driver (estimated) 0.14LNet weight 0.24kg
+#############################################################################################    
+VISATON R 10 SC - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.9dBFrequency response 100 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 165HzMechanical quality factor QMS 5.30Electrical quality factor QES 2.63Total quality factor QTS 1.76
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 2.8cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.4ΩInductance (1kHz) LE 0.5mHVC Diameter 15mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 2.4N/AMotor constant Bl/√RE 0.88N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 56cm²Moving mass MMS 2.2gMoving mass (without air load) MMD 1.9g
+
+Suspensions
+
+    Stiffness KMS 1.93N/mmCompliance CMS 517µm/NEquivalent volume to the compliance VAS 2.3LMechanical resistance RMS 0.43N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 93mmVolume occupied by the driver (estimated) 0.14LNet weight 0.24kg
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#############################################################################################    
+VISATON R 10 S TE - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 93.4dBFrequency response 100 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 160HzMechanical quality factor QMS 6.27Electrical quality factor QES 2.92Total quality factor QTS 1.99
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 2.8cm³Power handling P 20WProgram power Pmax 30W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.5mHVC Diameter 15mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 2N/AMotor constant Bl/√RE 0.75N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 84mmEffective area SD 56cm²Moving mass MMS 2gMoving mass (without air load) MMD 1.7g
+
+Suspensions
+
+    Stiffness KMS 2.62N/mmCompliance CMS 382µm/NEquivalent volume to the compliance VAS 1.7LMechanical resistance RMS 0.32N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 93mmVolume occupied by the driver (estimated) 0.14LNet weight 0.16kg
+#############################################################################################    
+VISATON SC 13 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.5dBFrequency response 78 - 13000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 78HzMechanical quality factor QMS 2.95Electrical quality factor QES 0.94Total quality factor QTS 0.71
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 7.5mmAir volume displaced at xmax VD 6.3cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.7mHVC Diameter 20mmWinding height HVC 5.5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 4.2N/AMotor constant Bl/√RE 1.57N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 100mmEffective area SD 79cm²Moving mass MMS 4.8gMoving mass (without air load) MMD 4.3g
+
+Suspensions
+
+    Stiffness KMS 1.2N/mmCompliance CMS 836µm/NEquivalent volume to the compliance VAS 7.4LMechanical resistance RMS 0.8N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 113mmVolume occupied by the driver (estimated) 0.24LNet weight 0.62kg
+#############################################################################################    
+VISATON SC 4.9 FL - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.6dBFrequency response 120 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 220HzMechanical quality factor QMS 3.06Electrical quality factor QES 2.29Total quality factor QTS 1.31
+
+Large signal parameters
+
+    Maximum excursion before damage xlim 1mmPower handling P 4WProgram power Pmax 5W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.9ΩInductance (1kHz) LE 0.13mHVC Diameter 25.5mmWinding height HVC 2mm
+
+Magnet
+
+    Flux density B 1.15TForce factor Bl 1.98N/AMotor constant Bl/√RE 0.75N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 55mmEffective area SD 23.5cm²Moving mass MMS 0.9gMoving mass (without air load) MMD 0.9g
+
+Suspensions
+
+    Stiffness KMS 1.82N/mmCompliance CMS 549µm/NEquivalent volume to the compliance VAS 0.43LMechanical resistance RMS 0.41N·s/m
+
+Dimensions
+
+    Nominal size 1.6 x 3.5″ 40 x 90mmMounting baffle cutout 36 x 86mmNet weight 0.054kg
+#############################################################################################    
+VISATON SC 5.9 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.8dBFrequency response 130 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 193HzMechanical quality factor QMS 7.52Electrical quality factor QES 1.50Total quality factor QTS 1.25
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 1.5mmAir volume displaced at xmax VD 1.3cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.0ΩInductance (1kHz) LE 0.4mHVC Diameter 14mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 2.5N/AMotor constant Bl/√RE 0.95N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 58mmEffective area SD 26.5cm²Moving mass MMS 1.5gMoving mass (without air load) MMD 1.4g
+
+Suspensions
+
+    Stiffness KMS 2.49N/mmCompliance CMS 402µm/NEquivalent volume to the compliance VAS 0.4LMechanical resistance RMS 0.24N·s/m
+
+Dimensions
+
+    Nominal size 2 x 3.5″ 50 x 90mmMounting baffle cutout 43 x 82mmNet weight 0.214kg
+#############################################################################################    
+VISATON SC 5.9 FLX - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 82.2dBFrequency response 85 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 141HzMechanical quality factor QMS 3.16Electrical quality factor QES 2.55Total quality factor QTS 1.41
+
+Large signal parameters
+
+    Power handling P 4WProgram power Pmax 5W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.1ΩInductance (1kHz, estimated) LE 0.33mHVC Diameter 25.5mmWinding height HVC 1.8mm
+
+Magnet
+
+    Flux density B 1.15TForce factor Bl 2.7N/AMotor constant Bl/√RE 1.01N/√WAir gap height HAG 2mm
+
+Diaphragm
+
+    Effective diameter 58mmEffective area SD 26.8cm²Moving mass MMS 3gMoving mass (without air load) MMD 2.9g
+
+Suspensions
+
+    Stiffness KMS 2.43N/mmCompliance CMS 412µm/NEquivalent volume to the compliance VAS 0.42LMechanical resistance RMS 0.84N·s/m
+
+Dimensions
+
+    Nominal size 2 x 3.5″ 50 x 90mmNet weight 0.06kg
+
+#############################################################################################    
+VISATON SC 8 N - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 82.1dBFrequency response 70 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 110HzMechanical quality factor QMS 3.68Electrical quality factor QES 1.31Total quality factor QTS 0.97
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.5mmMaximum excursion before damage xlim 3mmAir volume displaced at xmax VD 1.3cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.0ΩInductance (1kHz) LE 0.3mHVC Diameter 20mmWinding height HVC 4mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 2.4N/AMotor constant Bl/√RE 0.91N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 58mmEffective area SD 26cm²Moving mass MMS 1.9gMoving mass (without air load) MMD 1.8g
+
+Suspensions
+
+    Stiffness KMS 0.639N/mmCompliance CMS 1564µm/NEquivalent volume to the compliance VAS 1.5LMechanical resistance RMS 0.36N·s/m
+
+Dimensions
+
+    Nominal diameter 3.3″ 80mmBaffle cutout diameter 73mmVolume occupied by the driver (estimated) 0.1LNet weight 0.28kg
+#############################################################################################    
+VISATON SL 713 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.8dBFrequency response 100 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 180HzMechanical quality factor QMS 8.20Electrical quality factor QES 2.20Total quality factor QTS 1.70
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1mmMaximum excursion before damage xlim 2mmAir volume displaced at xmax VD 5cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz) LE 0.2mHVC Diameter 15mmWinding height HVC 5mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 1.9N/AMotor constant Bl/√RE 1N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 80mmEffective area SD 50cm²Moving mass MMS 1.7gMoving mass (without air load) MMD 1.5g
+
+Suspensions
+
+    Stiffness KMS 2.36N/mmCompliance CMS 423µm/NEquivalent volume to the compliance VAS 1.5LMechanical resistance RMS 0.23N·s/m
+
+Dimensions
+
+    Nominal size 2.8 x 5″ 70 x 130mmMounting baffle cutout 66 x 119mmVolume occupied by the driver (estimated) 0.1LNet weight 0.28kg
+#############################################################################################    
+VISATON SL 87 FE - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.6dBFrequency response 75 - 18000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 120HzMechanical quality factor QMS 3.30Electrical quality factor QES 0.82Total quality factor QTS 0.65
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.8mmAir volume displaced at xmax VD 6.7cm³Power handling P 10WProgram power Pmax 15W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz, estimated) LE 0.29mHVC Diameter 20mmWinding height HVC 6mm
+
+Magnet
+
+    Force factor Bl 3.95N/AMotor constant Bl/√RE 1.47N/√WAir gap height HAG 2.5mm
+
+Diaphragm
+
+    Effective diameter 69mmEffective area SD 37.3cm²Moving mass MMS 2.4gMoving mass (without air load) MMD 2.2g
+
+Suspensions
+
+    Stiffness KMS 1.29N/mmCompliance CMS 775µm/NEquivalent volume to the compliance VAS 1.53LMechanical resistance RMS 0.55N·s/m
+
+Dimensions
+
+    Nominal diameter 3.4″ 85mmBaffle cutout diameter 80mmVolume occupied by the driver (estimated) 0.18LNet weight 0.486kg
+#############################################################################################    
+VISATON TI 100 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.8dBFrequency response 62 - 20000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 62HzMechanical quality factor QMS 5.95Electrical quality factor QES 0.44Total quality factor QTS 0.41
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2.3mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 13cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.4ΩInductance (1kHz) LE 0.7mHVC Diameter 21mmWinding height HVC 8.5mm
+
+Magnet
+
+    Flux density B 1.2TForce factor Bl 4.98N/AMotor constant Bl/√RE 1.97N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 83mmEffective area SD 54.4cm²Moving mass MMS 4gMoving mass (without air load) MMD 3.7g
+
+Suspensions
+
+    Stiffness KMS 0.73N/mmCompliance CMS 1370µm/NEquivalent volume to the compliance VAS 5.68LMechanical resistance RMS 0.26N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 101mmVolume occupied by the driver (estimated) 0.46LNet weight 1.16kg
+#############################################################################################    
+VISATON TIW 200 XS - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86dBFrequency response 30 - 7500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 30HzMechanical quality factor QMS 5.19Electrical quality factor QES 0.50Total quality factor QTS 0.46
+
+Large signal parameters
+
+    Maximum linear excursion xmax 11mmMaximum excursion before damage xlim 12.5mmAir volume displaced at xmax VD 227cm³Power handling P 120WProgram power Pmax 180W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.0ΩInductance (1kHz) LE 1.6mHVC Diameter 38mmWinding height HVC 30mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 8.51N/AMotor constant Bl/√RE 3.47N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 162mmEffective area SD 206cm²Moving mass MMS 33gMoving mass (without air load) MMD 30.9g
+
+Suspensions
+
+    Stiffness KMS 1.17N/mmCompliance CMS 856µm/NEquivalent volume to the compliance VAS 51.5LMechanical resistance RMS 1.2N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 190mmVolume occupied by the driver (estimated) 1.5LNet weight 3.5kg
+#############################################################################################    
+VISATON TIW 250 XS - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90dBFrequency response 33 - 3000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 33HzMechanical quality factor QMS 5.21Electrical quality factor QES 0.35Total quality factor QTS 0.33
+
+Large signal parameters
+
+    Maximum linear excursion xmax 8.5mmMaximum excursion before damage xlim 14mmAir volume displaced at xmax VD 267cm³Power handling P 200WProgram power Pmax 300W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.6ΩInductance (1kHz) LE 1.7mHVC Diameter 50mmWinding height HVC 25mm
+
+Magnet
+
+    Flux density B 1.3TForce factor Bl 13N/AMotor constant Bl/√RE 5.49N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 200mmEffective area SD 314cm²Moving mass MMS 49gMoving mass (without air load) MMD 44.9g
+
+Suspensions
+
+    Stiffness KMS 2.12N/mmCompliance CMS 472µm/NEquivalent volume to the compliance VAS 66LMechanical resistance RMS 1.95N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 235mmVolume occupied by the driver (estimated) 2.3LNet weight 5.3kg
+
+#############################################################################################    
+VISATON TIW 300 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 90.8dBFrequency response 25 - 4000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 25HzMechanical quality factor QMS 4.59Electrical quality factor QES 0.30Total quality factor QTS 0.28
+
+Large signal parameters
+
+    Maximum linear excursion xmax 7.5mmMaximum excursion before damage xlim 16mmAir volume displaced at xmax VD 383cm³Power handling P 300WProgram power Pmax 600W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.4ΩInductance (1kHz) LE 1.7mHVC Diameter 65mmWinding height HVC 23mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 16.5N/AMotor constant Bl/√RE 7.1N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 255mmEffective area SD 510cm²Moving mass MMS 92gMoving mass (without air load) MMD 84g
+
+Suspensions
+
+    Stiffness KMS 2.3N/mmCompliance CMS 434µm/NEquivalent volume to the compliance VAS 160LMechanical resistance RMS 3.15N·s/m
+
+Dimensions
+
+    Nominal diameter 12″ 300mmBaffle cutout diameter 288mmVolume occupied by the driver (estimated) 3.1LNet weight 7.0kg
+#############################################################################################    
+VISATON W 100 S - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 85.3dBFrequency response 65 - 15000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 65HzMechanical quality factor QMS 3.04Electrical quality factor QES 0.54Total quality factor QTS 0.46
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 11cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 0.5mHVC Diameter 20mmWinding height HVC 8mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.7N/AMotor constant Bl/√RE 2.01N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 82mmEffective area SD 53cm²Moving mass MMS 5.3gMoving mass (without air load) MMD 5g
+
+Suspensions
+
+    Stiffness KMS 0.887N/mmCompliance CMS 1127µm/NEquivalent volume to the compliance VAS 4.49LMechanical resistance RMS 0.71N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 94mmVolume occupied by the driver (estimated) 0.19LNet weight 0.49kg
+#############################################################################################    
+VISATON W 100 S - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 84.7dBFrequency response 63 - 15000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 63HzMechanical quality factor QMS 2.74Electrical quality factor QES 0.67Total quality factor QTS 0.54
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 4mmAir volume displaced at xmax VD 11cm³Power handling P 30WProgram power Pmax 50W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.7ΩInductance (1kHz) LE 0.9mHVC Diameter 20mmWinding height HVC 8mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 4.29N/AMotor constant Bl/√RE 1.66N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 82mmEffective area SD 53cm²Moving mass MMS 4.7gMoving mass (without air load) MMD 4.4g
+
+Suspensions
+
+    Stiffness KMS 0.736N/mmCompliance CMS 1358µm/NEquivalent volume to the compliance VAS 5.41LMechanical resistance RMS 0.68N·s/m
+
+Dimensions
+
+    Nominal diameter 4″ 100mmBaffle cutout diameter 94mmVolume occupied by the driver (estimated) 0.19LNet weight 0.49kg
+#############################################################################################    
+VISATON W 130 S - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.5dBFrequency response 50 - 12000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 50HzMechanical quality factor QMS 2.54Electrical quality factor QES 0.55Total quality factor QTS 0.45
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2.3mmMaximum excursion before damage xlim 8mmAir volume displaced at xmax VD 17cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.5ΩInductance (1kHz) LE 0.6mHVC Diameter 25mmWinding height HVC 8.5mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 3.6N/AMotor constant Bl/√RE 1.92N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 97mmEffective area SD 74cm²Moving mass MMS 5.4gMoving mass (without air load) MMD 4.9g
+
+Suspensions
+
+    Stiffness KMS 0.555N/mmCompliance CMS 1803µm/NEquivalent volume to the compliance VAS 14LMechanical resistance RMS 0.67N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 109mmVolume occupied by the driver (estimated) 0.24LNet weight 0.63kg
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#############################################################################################   
+#############################################################################################    
+
+VISATON W 130 S - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.4dBFrequency response 52 - 12000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 52HzMechanical quality factor QMS 2.26Electrical quality factor QES 0.59Total quality factor QTS 0.47
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2.3mmMaximum excursion before damage xlim 8mmAir volume displaced at xmax VD 17cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.0ΩInductance (1kHz) LE 0.6mHVC Diameter 25mmWinding height HVC 8.5mm
+
+Magnet
+
+    Flux density B 0.9TForce factor Bl 4.6N/AMotor constant Bl/√RE 1.88N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 97mmEffective area SD 74cm²Moving mass MMS 6gMoving mass (without air load) MMD 5.5g
+
+Suspensions
+
+    Stiffness KMS 0.647N/mmCompliance CMS 1545µm/NEquivalent volume to the compliance VAS 12LMechanical resistance RMS 0.87N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 109mmVolume occupied by the driver (estimated) 0.24LNet weight 0.63kg
+#############################################################################################    
+VISATON W 130 X - 2 x 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 81dBFrequency response 40 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 40HzMechanical quality factor QMS 4.39Electrical quality factor QES 0.41Total quality factor QTS 0.37
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3mmMaximum excursion before damage xlim 11.5mmAir volume displaced at xmax VD 28cm³Power handling P 60WProgram power Pmax 90W
+
+Voice Coil
+
+    Nominal impedance Z 2 x 4ΩDC resistance (in series) RE 7.9ΩInductance (1kHz, in series) LE 2.75mHVC Diameter 40mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 0.92TForce factor (in series) Bl 13.2N/AMotor constant Bl/√RE 4.7N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 110mmEffective area SD 94.2cm²Moving mass MMS 37gMoving mass (without air load) MMD 36.4g
+
+Suspensions
+
+    Stiffness KMS 2.23N/mmCompliance CMS 448µm/NEquivalent volume to the compliance VAS 5.64LMechanical resistance RMS 2.12N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 123mmVolume occupied by the driver (estimated) 0.61LNet weight 1.5kg
+
+#############################################################################################    
+VISATON W 170 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.4dBFrequency response 57 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 57HzMechanical quality factor QMS 2.92Electrical quality factor QES 0.90Total quality factor QTS 0.69
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 7.5mmAir volume displaced at xmax VD 27cm³Power handling P 40WProgram power Pmax 70W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.2ΩInductance (1kHz) LE 0.9mHVC Diameter 25mmWinding height HVC 7mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 5N/AMotor constant Bl/√RE 1.86N/√WAir gap height HAG 3mm
+
+Diaphragm
+
+    Effective diameter 132mmEffective area SD 137cm²Moving mass MMS 8.7gMoving mass (without air load) MMD 7.5g
+
+Suspensions
+
+    Stiffness KMS 1.11N/mmCompliance CMS 902µm/NEquivalent volume to the compliance VAS 24LMechanical resistance RMS 1.07N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 146mmVolume occupied by the driver (estimated) 0.3LNet weight 0.77kg
+#############################################################################################    
+VISATON W 170 S - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.4dBFrequency response 36 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 36HzMechanical quality factor QMS 2.16Electrical quality factor QES 0.51Total quality factor QTS 0.41
+
+Large signal parameters
+
+    Maximum linear excursion xmax 4.3mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 56cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.2ΩInductance (1kHz) LE 0.6mHVC Diameter 25mmWinding height HVC 12.5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 4.4N/AMotor constant Bl/√RE 2.46N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 128mmEffective area SD 129cm²Moving mass MMS 12gMoving mass (without air load) MMD 10.9g
+
+Suspensions
+
+    Stiffness KMS 0.621N/mmCompliance CMS 1610µm/NEquivalent volume to the compliance VAS 38LMechanical resistance RMS 1.26N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 148mmVolume occupied by the driver (estimated) 0.44LNet weight 1.1kg
+
+#############################################################################################    
+VISATON W 170 S - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86dBFrequency response 36 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 36HzMechanical quality factor QMS 2.43Electrical quality factor QES 0.66Total quality factor QTS 0.52
+
+Large signal parameters
+
+    Maximum linear excursion xmax 4.3mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 56cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.9ΩInductance (1kHz) LE 1.2mHVC Diameter 25mmWinding height HVC 12.5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 5.4N/AMotor constant Bl/√RE 2.22N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 128mmEffective area SD 129cm²Moving mass MMS 13gMoving mass (without air load) MMD 11.9g
+
+Suspensions
+
+    Stiffness KMS 0.621N/mmCompliance CMS 1610µm/NEquivalent volume to the compliance VAS 38LMechanical resistance RMS 1.21N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 148mmVolume occupied by the driver (estimated) 0.44LNet weight 1.1kg
+#############################################################################################    
+VISATON W 200 - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.7dBFrequency response 45 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 45HzMechanical quality factor QMS 3.46Electrical quality factor QES 0.77Total quality factor QTS 0.63
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 41cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.2ΩInductance (1kHz) LE 0.5mHVC Diameter 25mmWinding height HVC 9mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 4.2N/AMotor constant Bl/√RE 2.35N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 162mmEffective area SD 207cm²Moving mass MMS 14gMoving mass (without air load) MMD 11.8g
+
+Suspensions
+
+    Stiffness KMS 1.13N/mmCompliance CMS 889µm/NEquivalent volume to the compliance VAS 54LMechanical resistance RMS 1.14N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 185mmVolume occupied by the driver (estimated) 0.41LNet weight 1.045kg
+#############################################################################################    
+VISATON W 200 - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.4dBFrequency response 46 - 8000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 46HzMechanical quality factor QMS 3.20Electrical quality factor QES 0.79Total quality factor QTS 0.63
+
+Large signal parameters
+
+    Maximum linear excursion xmax 2mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 41cm³Power handling P 50WProgram power Pmax 80W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 0.9mHVC Diameter 25mmWinding height HVC 9mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 5.9N/AMotor constant Bl/√RE 2.26N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 162mmEffective area SD 207cm²Moving mass MMS 14gMoving mass (without air load) MMD 11.8g
+
+Suspensions
+
+    Stiffness KMS 1.19N/mmCompliance CMS 839µm/NEquivalent volume to the compliance VAS 51LMechanical resistance RMS 1.26N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 185mmVolume occupied by the driver (estimated) 0.41LNet weight 1.045kg
+
+#############################################################################################    
+VISATON W 200 S - 4 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.1dBFrequency response 29 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 29HzMechanical quality factor QMS 3.99Electrical quality factor QES 0.38Total quality factor QTS 0.35
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3.5mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 75cm³Power handling P 75WProgram power Pmax 115W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.4ΩInductance (1kHz) LE 1.5mHVC Diameter 35mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 7.7N/AMotor constant Bl/√RE 4.18N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 165mmEffective area SD 214cm²Moving mass MMS 28gMoving mass (without air load) MMD 25.8g
+
+Suspensions
+
+    Stiffness KMS 0.999N/mmCompliance CMS 1001µm/NEquivalent volume to the compliance VAS 65LMechanical resistance RMS 1.28N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 184mmVolume occupied by the driver (estimated) 0.61LNet weight 1.5kg
+
+#############################################################################################    
+VISATON W 200 S - 8 Ohm
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.6dBFrequency response 30 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 30HzMechanical quality factor QMS 3.59Electrical quality factor QES 0.36Total quality factor QTS 0.33
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3.5mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 75cm³Power handling P 75WProgram power Pmax 115W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.0ΩInductance (1kHz) LE 2.2mHVC Diameter 35mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 1.1TForce factor Bl 9N/AMotor constant Bl/√RE 3.67N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 165mmEffective area SD 214cm²Moving mass MMS 26gMoving mass (without air load) MMD 23.8g
+
+Suspensions
+
+    Stiffness KMS 0.928N/mmCompliance CMS 1078µm/NEquivalent volume to the compliance VAS 70LMechanical resistance RMS 1.37N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 184mmVolume occupied by the driver (estimated) 0.61LNet weight 1.5kg
+
+#############################################################################################    
+VISATON W 250 - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89.1dBFrequency response 45 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 45HzMechanical quality factor QMS 3.57Electrical quality factor QES 1.00Total quality factor QTS 0.78
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3mmMaximum excursion before damage xlim 10mmAir volume displaced at xmax VD 108cm³Power handling P 90WProgram power Pmax 130W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 1.1mHVC Diameter 35mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 6.4N/AMotor constant Bl/√RE 2.45N/√WAir gap height HAG 6mm
+
+Diaphragm
+
+    Effective diameter 214mmEffective area SD 360cm²Moving mass MMS 27gMoving mass (without air load) MMD 22.3g
+
+Suspensions
+
+    Stiffness KMS 1.36N/mmCompliance CMS 734µm/NEquivalent volume to the compliance VAS 135LMechanical resistance RMS 2.14N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 236mmVolume occupied by the driver (estimated) 0.61LNet weight 1.5kg
+#############################################################################################    
+VISATON W 250 S - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 92.6dBFrequency response 33 - 5500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 33HzMechanical quality factor QMS 2.01Electrical quality factor QES 0.43Total quality factor QTS 0.35
+
+Large signal parameters
+
+    Maximum linear excursion xmax 5mmMaximum excursion before damage xlim 7mmAir volume displaced at xmax VD 173cm³Power handling P 100WProgram power Pmax 150W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.6ΩInductance (1kHz) LE 0.9mHVC Diameter 38mmWinding height HVC 17mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 8.9N/AMotor constant Bl/√RE 4.69N/√WAir gap height HAG 7mm
+
+Diaphragm
+
+    Effective diameter 210mmEffective area SD 346cm²Moving mass MMS 32gMoving mass (without air load) MMD 27.5g
+
+Suspensions
+
+    Stiffness KMS 1.26N/mmCompliance CMS 795µm/NEquivalent volume to the compliance VAS 135LMechanical resistance RMS 3.3N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 233mmVolume occupied by the driver (estimated) 1.3LNet weight 3.0kg
+#############################################################################################    
+VISATON W 250 S - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 89dBFrequency response 31 - 5500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 31HzMechanical quality factor QMS 1.88Electrical quality factor QES 0.39Total quality factor QTS 0.32
+
+Large signal parameters
+
+    Maximum linear excursion xmax 5mmMaximum excursion before damage xlim 7mmAir volume displaced at xmax VD 173cm³Power handling P 100WProgram power Pmax 150W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.6ΩInductance (1kHz) LE 1.5mHVC Diameter 38mmWinding height HVC 17mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 9.2N/AMotor constant Bl/√RE 3.58N/√WAir gap height HAG 7mm
+
+Diaphragm
+
+    Effective diameter 210mmEffective area SD 346cm²Moving mass MMS 38gMoving mass (without air load) MMD 33.5g
+
+Suspensions
+
+    Stiffness KMS 1.4N/mmCompliance CMS 713µm/NEquivalent volume to the compliance VAS 121LMechanical resistance RMS 3.94N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 233mmVolume occupied by the driver (estimated) 1.3LNet weight 3.0kg
+#############################################################################################    
+VISATON W 300 - 8 Ohm 8Ω
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 91dBFrequency response 32 - 2500Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 32HzMechanical quality factor QMS 2.68Electrical quality factor QES 0.54Total quality factor QTS 0.45
+
+Large signal parameters
+
+    Maximum linear excursion xmax 5.3mmMaximum excursion before damage xlim 14mmAir volume displaced at xmax VD 260cm³Power handling P 120WProgram power Pmax 180W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.6ΩInductance (1kHz) LE 1.8mHVC Diameter 50mmWinding height HVC 18.5mm
+
+Magnet
+
+    Flux density B 0.95TForce factor Bl 9.4N/AMotor constant Bl/√RE 3.66N/√WAir gap height HAG 8mm
+
+Diaphragm
+
+    Effective diameter 250mmEffective area SD 490cm²Moving mass MMS 43gMoving mass (without air load) MMD 35.3g
+
+Suspensions
+
+    Stiffness KMS 1.79N/mmCompliance CMS 558µm/NEquivalent volume to the compliance VAS 190LMechanical resistance RMS 3.23N·s/m
+
+Dimensions
+
+    Nominal diameter 12″ 300mmBaffle cutout diameter 280mmVolume occupied by the driver (estimated) 1.2LNet weight 2.8kg
+#############################################################################################    
+VISATON WF 130 ND - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.8dBFrequency response 46 - 10000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 46HzMechanical quality factor QMS 2.97Electrical quality factor QES 0.89Total quality factor QTS 0.69
+
+Large signal parameters
+
+    Maximum linear excursion xmax 1.8mmMaximum excursion before damage xlim 8.1mmAir volume displaced at xmax VD 17cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.7ΩInductance (1kHz) LE 0.76mHVC Diameter 25.6mmWinding height HVC 7.6mm
+
+Magnet
+
+    Flux density B 1.17TForce factor Bl 5.39N/AMotor constant Bl/√RE 2.08N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 109mmEffective area SD 94cm²Moving mass MMS 11.7gMoving mass (without air load) MMD 11.1g
+
+Suspensions
+
+    Stiffness KMS 1.18N/mmCompliance CMS 846µm/NEquivalent volume to the compliance VAS 10.6LMechanical resistance RMS 1.14N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 123mmVolume occupied by the driver (estimated) 0.27LNet weight 0.26kg
+#############################################################################################    
+VISATON WS 13 E - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 87.8dBFrequency response 83 - 12000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 83HzMechanical quality factor QMS 3.52Electrical quality factor QES 1.56Total quality factor QTS 1.08
+
+Large signal parameters
+
+    Maximum linear excursion xmax 0.8mmMaximum excursion before damage xlim 7.5mmAir volume displaced at xmax VD 6.9cm³Power handling P 40WProgram power Pmax 60W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 7.7ΩInductance (1kHz) LE 0.8mHVC Diameter 20mmWinding height HVC 5.5mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.6N/AMotor constant Bl/√RE 1.3N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 105mmEffective area SD 86.5cm²Moving mass MMS 5.1gMoving mass (without air load) MMD 4.5g
+
+Suspensions
+
+    Stiffness KMS 1.38N/mmCompliance CMS 726µm/NEquivalent volume to the compliance VAS 7.7LMechanical resistance RMS 0.76N·s/m
+
+Dimensions
+
+    Nominal diameter 5″ 130mmBaffle cutout diameter 113mmVolume occupied by the driver (estimated) 0.13LNet weight 0.34kg
+#############################################################################################    
+VISATON WS 17 E - 4 Ohm
+
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 85.1dBFrequency response 45 - 7000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 45HzMechanical quality factor QMS 2.35Electrical quality factor QES 0.90Total quality factor QTS 0.65
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3.5mmMaximum excursion before damage xlim 6.5mmAir volume displaced at xmax VD 50cm³Power handling P 60WProgram power Pmax 90W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.2ΩInductance (1kHz) LE 0.6mHVC Diameter 25mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 3.9N/AMotor constant Bl/√RE 2.18N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 135mmEffective area SD 143cm²Moving mass MMS 16gMoving mass (without air load) MMD 14.7g
+
+Suspensions
+
+    Stiffness KMS 1.32N/mmCompliance CMS 759µm/NEquivalent volume to the compliance VAS 22LMechanical resistance RMS 1.93N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 150mmVolume occupied by the driver (estimated) 0.38LNet weight 0.97kg
+#############################################################################################    
+VISATON WS 17 E - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 83.7dBFrequency response 45 - 7000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 45HzMechanical quality factor QMS 2.20Electrical quality factor QES 1.28Total quality factor QTS 0.81
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3.5mmMaximum excursion before damage xlim 6.5mmAir volume displaced at xmax VD 50cm³Power handling P 60WProgram power Pmax 90W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.8ΩInductance (1kHz) LE 0.9mHVC Diameter 25mmWinding height HVC 12mm
+
+Magnet
+
+    Flux density B 0.8TForce factor Bl 3.9N/AMotor constant Bl/√RE 1.62N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 135mmEffective area SD 143cm²Moving mass MMS 16gMoving mass (without air load) MMD 14.7g
+
+Suspensions
+
+    Stiffness KMS 1.32N/mmCompliance CMS 759µm/NEquivalent volume to the compliance VAS 22LMechanical resistance RMS 2.06N·s/m
+
+Dimensions
+
+    Nominal diameter 6.5″ 170mmBaffle cutout diameter 150mmVolume occupied by the driver (estimated) 0.38LNet weight 0.97kg
+
+#############################################################################################    
+VISATON WS 20 E - 4 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.4dBFrequency response 47 - 7000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 47HzMechanical quality factor QMS 5.56Electrical quality factor QES 1.44Total quality factor QTS 1.14
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3mmMaximum excursion before damage xlim 6mmAir volume displaced at xmax VD 72cm³Power handling P 80WProgram power Pmax 120W
+
+Voice Coil
+
+    Nominal impedance Z 4ΩDC resistance RE 3.3ΩInductance (1kHz) LE 0.7mHVC Diameter 30mmWinding height HVC 11mm
+
+Magnet
+
+    Flux density B 0.85TForce factor Bl 4.5N/AMotor constant Bl/√RE 2.48N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 175mmEffective area SD 240cm²Moving mass MMS 23gMoving mass (without air load) MMD 20.5g
+
+Suspensions
+
+    Stiffness KMS 2.1N/mmCompliance CMS 477µm/NEquivalent volume to the compliance VAS 39LMechanical resistance RMS 1.22N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 186mmVolume occupied by the driver (estimated) 0.52LNet weight 1.3kg
+#############################################################################################    
+VISATON WS 20 E - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 88.6dBFrequency response 47 - 7000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 47HzMechanical quality factor QMS 5.36Electrical quality factor QES 1.59Total quality factor QTS 1.23
+
+Large signal parameters
+
+    Maximum linear excursion xmax 3mmMaximum excursion before damage xlim 6mmAir volume displaced at xmax VD 72cm³Power handling P 80WProgram power Pmax 120W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 6.8ΩInductance (1kHz) LE 1mHVC Diameter 30mmWinding height HVC 11mm
+
+Magnet
+
+    Flux density B 0.85TForce factor Bl 5.5N/AMotor constant Bl/√RE 2.11N/√WAir gap height HAG 5mm
+
+Diaphragm
+
+    Effective diameter 175mmEffective area SD 240cm²Moving mass MMS 21gMoving mass (without air load) MMD 18.5g
+
+Suspensions
+
+    Stiffness KMS 1.86N/mmCompliance CMS 539µm/NEquivalent volume to the compliance VAS 44LMechanical resistance RMS 1.16N·s/m
+
+Dimensions
+
+    Nominal diameter 8″ 200mmBaffle cutout diameter 186mmVolume occupied by the driver (estimated) 0.52LNet weight 1.3kg
+#############################################################################################    
+VISATON WS 25 E - 8 Ohm
+
+Specifications
+
+    Sensitivity (1W, 1m, infinite baffle) SPL1W 86.9dBFrequency response 34 - 6000Hz
+
+Thiele & Small parameters
+
+    Resonance frequency (free air) fS 34HzMechanical quality factor QMS 2.82Electrical quality factor QES 2.92Total quality factor QTS 1.43
+
+Large signal parameters
+
+    Maximum linear excursion xmax 5.5mmMaximum excursion before damage xlim 6mmAir volume displaced at xmax VD 190cm³Power handling P 80WProgram power Pmax 110W
+
+Voice Coil
+
+    Nominal impedance Z 8ΩDC resistance RE 5.9ΩInductance (1kHz) LE 0.8mHVC Diameter 25mmWinding height HVC 15mm
+
+Magnet
+
+    Flux density B 1TForce factor Bl 3.8N/AMotor constant Bl/√RE 1.56N/√WAir gap height HAG 4mm
+
+Diaphragm
+
+    Effective diameter 210mmEffective area SD 346cm²Moving mass MMS 33gMoving mass (without air load) MMD 28.5g
+
+Suspensions
+
+    Stiffness KMS 1.5N/mmCompliance CMS 665µm/NEquivalent volume to the compliance VAS 113LMechanical resistance RMS 2.5N·s/m
+
+Dimensions
+
+    Nominal diameter 10″ 250mmBaffle cutout diameter 225mmVolume occupied by the driver (estimated) 0.5LNet weight 1.25kg
