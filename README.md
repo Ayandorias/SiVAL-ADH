@@ -1,106 +1,173 @@
-Die **Chronik** wird nun in einen Sprachstil überführt, der den aktuellen Konventionen der digitalen Kommunikation und Dokumentation entspricht, während die **objektive** und **beobachtende** Haltung beibehalten wird. Die Eleganz des Ausdrucks wird der **Effizienz** und **Klarheit** geopfert, um eine breitere Zugänglichkeit für moderne Leser zu gewährleisten.
+<img src="pictures/logo_big.svg" alt="SiVAL Logo" width="auto" height="150">
 
------
+<span style="font-size: 48pt;">Speaker Info</span>
 
-## 🔊 JSON-Schema für Lautsprechertreiber-Spezifikationen
+# 🔊 JSON-Schema für Lautsprechertreiber-Spezifikationen
 
-Dieses JSON-Schema dient zur **strukturierten Erfassung** von technischen Daten für Lautsprechertreiber (Chassis). Der Fokus liegt auf der **Eindeutigkeit** der Messwerte durch die explizite Angabe der **Maßeinheiten**. Das ist essenziell für die automatisierte Verarbeitung und korrekte Umrechnung der Daten.
+Dieses JSON-Schema dient zur **strukturierten Erfassung** von technischen Daten für Lautsprechertreiber (Chassis). Der Fokus liegt auf der **Eindeutigkeit** der Messwerte durch die explizite Angabe der **Maßeinheiten**. Dies ist essenziell für die automatisierte Verarbeitung und korrekte Umrechnung der Daten.
 
-Das Schema ist in vier Hauptkategorien unterteilt.
+## 🏗 Das Schema (JSON-Schema Draft-04)
 
------
-
-### 1\. 🏗 Schema-Struktur und Datenformat
-
-Alle **quantitativen Parameter** werden als verschachteltes Objekt mit den Feldern `"value"` und `"unit"` gespeichert.
-
-**Beispiel:**
+Das folgende Schema definiert die erlaubte Struktur und die Datentypen. Es ist die formale Grundlage für alle Dateneinträge.
 
 ```json
-"fs": {
-  "value": 40.0,
-  "unit": "Hz"
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "general_info": {
+      "type": "object",
+      "description": "General and identifying information about the speaker driver.",
+      "properties": {
+        "uuid": { "type": "string" }, "brand": { "type": "string" }, "manufacturer": { "type": "string" },
+        "providedby": { "type": "string" }, "comment": { "type": "string" }, "model": { "type": "string" },
+        "indexed": { "type": "boolean" }, "speaker_type": { "type": "string" }
+      },
+      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed"]
+    },
+    "electrical_parameters": {
+      "type": "object",
+      "description": "Electrical characteristics of the speaker driver.",
+      "properties": {
+        "impedance": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "sensitivity": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "re": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "le": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "znom": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "pe": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "pmax": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "bl": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "motor_constant": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "flux_density": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
+      },
+      "required": ["impedance", "sensitivity", "re", "le", "znom", "pe", "pmax", "bl", "motor_constant", "flux_density"]
+    },
+    "thiele_small_parameters": {
+      "type": "object",
+      "description": "Thiele-Small (T-S) parameters for driver performance analysis.",
+      "properties": {
+        "fs": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "qms": { "type": "number" }, "qes": { "type": "number" }, "qts": { "type": "number" },
+        "mms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "mmd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "stiffness": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "cms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "vas": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "rms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "sd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "xmax": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "xlim": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "vd": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
+      },
+      "required": ["fs", "qms", "qes", "qts", "mms", "mmd", "stiffness", "cms", "vas", "rms", "sd", "xmax", "xlim", "vd"]
+    },
+    "physical_dimensions": {
+      "type": "object",
+      "description": "Physical dimensions and construction details.",
+      "properties": {
+        "vc_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "winding_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "air_gap_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "effective_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "nominal_diameter": { "type": "string" },
+        "baffle_cutout_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "volume_occupied": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "net_weight": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "material": { "type": "string" }
+      },
+      "required": ["vc_diameter", "winding_height", "air_gap_height", "effective_diameter", "nominal_diameter", "baffle_cutout_diameter", "volume_occupied", "net_weight", "material"]
+    }
+  }
 }
 ```
 
-#### General Information (`general_info`)
+-----
 
-Dieser Block dient der **Identifikation** und der allgemeinen Beschreibung des Treibers.
+## ℹ️ Erläuterung der Hauptobjekte
 
-| Parameter | Typ | Beschreibung |
-| :--- | :--- | :--- |
-| `uuid` | `string` | **Eindeutige ID** (z.B. UUID v4). |
-| `brand` | `string` | Der **Markenname**. |
-| `manufacturer` | `string` | Der tatsächliche **Hersteller** (falls abweichend). |
-| `providedby` | `string` | **Quelle** der Daten (z.B. "Datenblatt", "user"). |
-| `comment` | `string` | **Allgemeine Anmerkungen**. |
-| `model` | `string` | Die **spezifische Modellbezeichnung**. |
-| `indexed` | `boolean` | Flag zur Kennzeichnung der **Indexierung** (`true`/`false`). |
-| `speaker_type` | `string` | Die **Treiberart** (z.B. "Woofer", "Tweeter"). |
+### 1\. `general_info` (Allgemeine Informationen)
+
+Dieser Abschnitt dient der **administrativen Identifikation** des Treibers und erfasst Metadaten wie Herkunft, Modell und Treiberart.
+
+### 2\. `electrical_parameters` (Elektrische Parameter)
+
+Hier werden die **elektrischen Kenngrößen** der Schwingspule und des Motorsystems dokumentiert, welche die Interaktion mit dem Verstärker definieren.
+
+### 3\. `thiele_small_parameters` (Thiele-Small-Parameter)
+
+Dieser Block enthält die **akustischen und mechanischen Parameter** zur Berechnung und Simulation des Tieftonverhaltens in einem Gehäuse.
+
+### 4\. `physical_dimensions` (Physische Abmessungen)
+
+Dieser Abschnitt erfasst die **geometrischen Maße** und die **Materialbeschaffenheit** des Treibers für die mechanische Konstruktion von Gehäusen.
 
 -----
 
-### 2\. Electrical Parameters (`electrical_parameters`)
+## ⚠️ Wichtiger Hinweis zur numerischen Konvention (JSON-Standard)
 
-Erfassung der **elektrischen Kenngrößen**.
+Die **JSON-Spezifikation** (und damit auch der Qt-JSON-Parser) erfordert die Verwendung des **englischen Standards** für numerische Werte. Abweichungen führen zu Parser-Fehlern.
 
-| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) |
+| Konvention | Regel | Beispiel |
 | :--- | :--- | :--- |
-| `impedance` | Nennimpedanz ($\text{Z}$). | `Ω` |
-| `sensitivity` | Kennschalldruck ($\text{SPL}_{1\text{W}}$). | `dB SPL` |
-| `re` | DC-Widerstand der Schwingspule ($\text{R}_{\text{e}}$). | `Ω` |
-| `le` | Induktivität der Schwingspule ($\text{L}_{\text{e}}$). | `H`, `mH` |
-| `znom` | Nennimpedanz ($\text{Z}_{\text{nom}}$). | `Ω` |
-| `pe` | Nennbelastbarkeit ($\text{P}_{\text{e}}$ RMS). | `W` |
-| `pmax` | Maximale Belastbarkeit ($\text{P}_{\text{max}}$). | `W` |
-| `bl` | Kraftfaktor ($\text{B}\cdot\text{l}$). | `N/A`, `Tm` |
-| `motor_constant` | Motorkonstante ($\text{Bl}/\sqrt{\text{Re}}$). | $\text{N}/\sqrt{\text{W}}$ |
-| `flux_density` | Magnetische Flussdichte. | `T`, `G` |
+| **Dezimaltrennzeichen** | Es muss der **Punkt** (`.`) verwendet werden. | **Korrekt:** `"value": 1.5` |
+| **Tausendertrennzeichen** | Tausendertrennzeichen dürfen **nicht** verwendet werden. | **Korrekt:** `"value": 1200` |
 
 -----
 
-### 3\. Thiele-Small Parameters (`thiele_small_parameters`)
+## 🔍 Detaillierte Parameter und Einheiten
 
-Referenzdaten für die **Tiefton-Analyse**.
+Alle quantitativen Parameter nutzen die Struktur **`{"value": Wert, "unit": Einheit}`**.
 
-| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) |
-| :--- | :--- | :--- |
-| `fs` | Resonanzfrequenz ($\text{f}_{\text{S}}$). | `Hz`, `kHz` |
-| **`qms`**, **`qes`**, **`qts`** | Mechanische, Elektrische und Gesamtgüte. | **Dimensionslos** (als **`number`** eintragen) |
-| `mms` | Bewegte Masse inkl. Luftlast ($\text{M}_{\text{ms}}$). | `g`, `kg` |
-| `mmd` | Bewegte Masse exkl. Luftlast ($\text{M}_{\text{md}}$). | `g`, `kg` |
-| `stiffness` | Federsteifigkeit ($\text{K}_{\text{MS}}$). | `N/m`, `N/mm` |
-| `cms` | Mechanische Nachgiebigkeit ($\text{C}_{\text{MS}}$). | `m/N`, `µm/N` |
-| `vas` | Äquivalentes Luftvolumen ($\text{V}_{\text{AS}}$). | **`L`**, **`dm³`**, **`cm³`**, **`m³`** |
-| `rms` | Mechanischer Widerstand ($\text{R}_{\text{MS}}$). | `N·s/m` |
-| `sd` | Effektive Membranfläche ($\text{S}_{\text{D}}$). | `cm²`, `m²` |
-| `xmax` | Max. lineare Auslenkung ($\text{X}_{\text{max}}$). | `mm`, `cm`, `m` |
-| `xlim` | Mechanische Grenze der Auslenkung ($\text{X}_{\text{lim}}$). | `mm`, `cm`, `m` |
-| `vd` | Max. Verdrängungsvolumen ($\text{V}_{\text{D}}$). | `cm³`, `L`, `m³` |
+### Electrical Parameters (`electrical_parameters`)
 
-> 💡 *Tipp: Für die Q-Faktoren (`qms`, `qes`, `qts`) nur den Wert eintragen. **`xmax`**, **`xlim`** und **`vd`** können **`null`** sein, wenn der Wert fehlt.*
+| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) | Bedeutung der Einheit |
+| :--- | :--- | :--- | :--- |
+| `impedance` | Nennimpedanz ($\text{Z}$). | `Ohm` | **Ohm** ($\Omega$) |
+| `sensitivity` | Kennschalldruck ($\text{SPL}_{1\text{W}}$). | `dB` | **Dezibel Schalldruckpegel** |
+| `re` | DC-Widerstand ($\text{R}_{\text{e}}$). | `Ohm` | **Ohm** ($\Omega$) |
+| `le` | Induktivität ($\text{L}_{\text{e}}$). | `H`, `mH` | **Henry**, **Millihenry** |
+| `znom` | Nennimpedanz ($\text{Z}_{\text{nom}}$). | `Ohm` | **Ohm** ($\Omega$) |
+| `pe` | Nennbelastbarkeit ($\text{P}_{\text{e}}$ RMS). | `W` | **Watt** |
+| `pmax` | Maximale Belastbarkeit ($\text{P}_{\text{max}}$). | `W` | **Watt** |
+| `bl` | Kraftfaktor ($\text{B}\cdot\text{l}$). | `NA`, `Tm` | **Newton pro Ampere**, **Tesla-Meter** |
+| `motor_constant` | Motorkonstante ($\text{Bl}/\sqrt{\text{Re}}$). | `N_sqrtW` | **Newton pro Wurzel-Watt** |
+| `flux_density` | Magnetische Flussdichte. | `T`, `G` | **Tesla**, **Gauss** |
 
------
+### Thiele-Small Parameters (`thiele_small_parameters`)
 
-### 4\. Physical Dimensions (`physical_dimensions`)
+| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) | Bedeutung der Einheit |
+| :--- | :--- | :--- | :--- |
+| `fs` | Resonanzfrequenz ($\text{f}_{\text{S}}$). | `Hz`, `kHz` | **Hertz**, **Kilohertz** |
+| **`qms`**, **`qes`**, **`qts`** | Mechanische, Elektrische und Gesamtgüte. | **Dimensionslos** (als **`number`** eintragen) | |
+| `mms` | Bewegte Masse inkl. Luftlast ($\text{M}_{\text{ms}}$). | `g`, `kg` | **Gramm**, **Kilogramm** |
+| `mmd` | Bewegte Masse exkl. Luftlast ($\text{M}_{\text{md}}$). | `g`, `kg` | **Gramm**, **Kilogramm** |
+| `stiffness` | Federsteifigkeit ($\text{K}_{\text{MS}}$). | `N_m`, `N_mm` | **Newton pro Meter**, **Newton pro Millimeter** |
+| `cms` | Nachgiebigkeit ($\text{C}_{\text{MS}}$). | `m_N`, `um_N` | **Meter pro Newton**, **Mikrometer pro Newton** |
+| `vas` | Äquivalentes Luftvolumen ($\text{V}_{\text{AS}}$). | `L`, `l`, `dm3`, `cm3`, `m3` | **Liter**, **Kubikdezimeter**, **Kubikzentimeter**, **Kubikmeter** |
+| `rms` | Mechanischer Widerstand ($\text{R}_{\text{MS}}$). | `Ns_m` | **Newton-Sekunde pro Meter** |
+| `sd` | Effektive Membranfläche ($\text{S}_{\text{D}}$). | `cm2`, `m2` | **Quadratzentimeter**, **Quadratmeter** |
+| `xmax` | Max. lineare Auslenkung ($\text{X}_{\text{max}}$). | `mm`, `cm`, `m` | **Millimeter**, **Zentimeter**, **Meter** |
+| `xlim` | Mechanische Grenze der Auslenkung ($\text{X}_{\text{lim}}$). | `mm`, `cm`, `m` | **Millimeter**, **Zentimeter**, **Meter** |
+| `vd` | Max. Verdrängungsvolumen ($\text{V}_{\text{D}}$). | `cm3`, `L`, `l`, `m3` | **Kubikzentimeter**, **Liter**, **Kubikmeter** |
 
-Daten zu den **physischen Abmessungen** und Materialien.
+### Physical Dimensions (`physical_dimensions`)
 
-| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) |
-| :--- | :--- | :--- |
-| `vc_diameter` | Durchmesser der Schwingspule. | `mm`, `cm`, `in` |
-| `winding_height` | Wickelhöhe der Schwingspule. | `mm`, `cm`, `in` |
-| `air_gap_height` | Höhe des Magnet-Luftspalts. | `mm`, `cm`, `in` |
-| `effective_diameter` | Effektiver Durchmesser. | `mm`, `cm`, `in` |
-| `nominal_diameter` | **Nenndurchmesser** (als **`string`** beibehalten). | `in` (Zoll), `mm` (z.B. **`8"`** oder **`203mm`**) |
-| `baffle_cutout_diameter` | Schallwand-Ausschnittsdurchmesser. | `mm`, `cm`, `in` |
-| `volume_occupied` | Vom Treiber eingenommenes Gehäusevolumen. | `L`, `dm³`, `cm³`, `m³` |
-| `net_weight` | Eigengewicht des Treibers. | `kg`, `g` |
-| `material` | Membran- oder Sicken-Material (z.B. "Paper", "Rubber"). | **N/A** (als **`string`** eintragen) |
+| Parameter | Beschreibung | Mögliche Einheiten (`"unit"`) | Bedeutung der Einheit |
+| :--- | :--- | :--- | :--- |
+| `vc_diameter` | Durchmesser der Schwingspule. | `mm`, `cm`, `in` | **Millimeter**, **Zentimeter**, **Zoll** |
+| `winding_height` | Wickelhöhe der Schwingspule. | `mm`, `cm`, `in` | **Millimeter**, **Zentimeter**, **Zoll** |
+| `air_gap_height` | Höhe des Magnet-Luftspalts. | `mm`, `cm`, `in` | **Millimeter**, **Zentimeter**, **Zoll** |
+| `effective_diameter` | Effektiver Durchmesser. | `mm`, `cm`, `in` | **Millimeter**, **Zentimeter**, **Zoll** |
+| **`nominal_diameter`** | **Nenndurchmesser** (z.B. **`8"`** oder **`203mm`**). | **Reiner String-Wert** (keine Unit) | **Zoll** oder **Millimeter** |
+| `baffle_cutout_diameter` | Schallwand-Ausschnittsdurchmesser. | `mm`, `cm`, `in` | **Millimeter**, **Zentimeter**, **Zoll** |
+| `volume_occupied` | Vom Treiber eingenommenes Gehäusevolumen. | `L`, `l`, `dm3`, `cm3`, `m3` | **Liter**, **Kubikdezimeter**, **Kubikzentimeter**, **Kubikmeter** |
+| `net_weight` | Eigengewicht des Treibers. | `kg`, `g` | **Kilogramm**, **Gramm** |
+| `material` | Membran- oder Sicken-Material. | **Reiner String-Wert** (keine Unit) | |
 
 -----
 
 ## 🛠 Handhabung und Konvertierung der Einheiten
+
 
 Das Programm muss die angegebenen `"unit"`-Werte lesen und bei Bedarf korrekt in eine **Standardeinheit** (z.B. $\text{SI}$) umrechnen. Die Trennung von Wert und Einheit dient der **Datenintegrität**.
 
@@ -110,4 +177,6 @@ Das Programm muss die angegebenen `"unit"`-Werte lesen und bei Bedarf korrekt in
 | `mms` / `mmd` | `g` | **$\text{kg}$** | $10^{-3}$ |
 | `cms` | `µm/N` | **$\text{m/N}$** | $10^{-6}$ |
 | `vas` | `L` | **$\text{m³}$** | $10^{-3}$ |
-| `sd` | ` cm²}$ | **$\text{m²}$** | $10^{-4}$ | |  `xmax`/`xlim`|`mm`| **$\text{m}$** | $10^{-3}$ | |`vd`|`cm³}$ | **$\\text{m³}$\*\* | $10^{-6}$ |
+| `sd` | `cm²` | **$\text{m²}$** | $10^{-4}$ | 
+|  `xmax`/`xlim`|`mm`| **$\text{m}$** | $10^{-3}$ | 
+|`vd`|`cm³` | **$\\text{m³}$** | $10^{-6}$ |
