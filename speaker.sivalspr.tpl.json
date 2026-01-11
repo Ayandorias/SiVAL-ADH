@@ -1,70 +1,164 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SiVAL Speaker Specification",
   "type": "object",
+  "required": [
+    "general_info",
+    "electrical_parameters",
+    "thiele_small_parameters",
+    "physical_dimensions"
+  ],
   "properties": {
     "general_info": {
       "type": "object",
-      "description": "General and identifying information about the speaker driver.",
+      "description": "Administrative identification of the driver.",
+      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed"],
       "properties": {
-        "uuid": { "type": "string" }, "brand": { "type": "string" }, "manufacturer": { "type": "string" },
-        "providedby": { "type": "string" }, "comment": { "type": "string" }, "model": { "type": "string" },
-        "indexed": { "type": "boolean" }, "speaker_type": { "type": "string" }
-      },
-      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed"]
+        "uuid": { "type": "string", "format": "uuid" },
+        "brand": { "type": "string" },
+        "manufacturer": { "type": "string" },
+        "providedby": { "type": "string" },
+        "comment": { "type": "string" },
+        "model": { "type": "string" },
+        "indexed": { "type": "boolean" },
+        "speaker_type": { "type": "string" }
+      }
     },
     "electrical_parameters": {
       "type": "object",
-      "description": "Electrical characteristics of the speaker driver.",
+      "description": "Electrical characteristics.",
+      "required": ["impedance", "sensitivity", "re", "le", "znom", "pe", "pmax", "bl", "motor_constant", "flux_density"],
       "properties": {
-        "impedance": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "sensitivity": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "re": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "le": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "znom": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "pe": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "pmax": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "bl": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "motor_constant": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "flux_density": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
-      },
-      "required": ["impedance", "sensitivity", "re", "le", "znom", "pe", "pmax", "bl", "motor_constant", "flux_density"]
+        "impedance": { "$ref": "#/$defs/val_ohm" },
+        "sensitivity": { "$ref": "#/$defs/val_db" },
+        "re": { "$ref": "#/$defs/val_ohm" },
+        "le": { "$ref": "#/$defs/val_henry" },
+        "znom": { "$ref": "#/$defs/val_ohm" },
+        "pe": { "$ref": "#/$defs/val_watt" },
+        "pmax": { "$ref": "#/$defs/val_watt" },
+        "bl": { "$ref": "#/$defs/val_bl" },
+        "motor_constant": { "$ref": "#/$defs/val_motor" },
+        "flux_density": { "$ref": "#/$defs/val_magnetic" }
+      }
     },
     "thiele_small_parameters": {
       "type": "object",
-      "description": "Thiele-Small (T-S) parameters for driver performance analysis.",
+      "description": "Acoustic and mechanical parameters (T/S).",
+      "required": ["fs", "qms", "qes", "qts", "mms", "mmd", "stiffness", "cms", "vas", "rms", "sd", "xmax", "xlim", "vd"],
       "properties": {
-        "fs": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "qms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "qes": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "qts": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "mms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "mmd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "stiffness": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "cms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "vas": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "rms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "sd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "xmax": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "xlim": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "vd": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
-      },
-      "required": ["fs", "qms", "qes", "qts", "mms", "mmd", "stiffness", "cms", "vas", "rms", "sd", "xmax", "xlim", "vd"]
+        "fs": { "$ref": "#/$defs/val_freq" },
+        "qms": { "type": "number" },
+        "qes": { "type": "number" },
+        "qts": { "type": "number" },
+        "mms": { "$ref": "#/$defs/val_mass" },
+        "mmd": { "$ref": "#/$defs/val_mass" },
+        "stiffness": { "$ref": "#/$defs/val_stiffness" },
+        "cms": { "$ref": "#/$defs/val_compliance" },
+        "vas": { "$ref": "#/$defs/val_volume" },
+        "rms": { "$ref": "#/$defs/val_resistance_mech" },
+        "sd": { "$ref": "#/$defs/val_area" },
+        "xmax": { "anyOf": [{ "$ref": "#/$defs/val_length_excursion" }, { "type": "null" }] },
+        "xlim": { "anyOf": [{ "$ref": "#/$defs/val_length_excursion" }, { "type": "null" }] },
+        "vd": { "anyOf": [{ "$ref": "#/$defs/val_volume" }, { "type": "null" }] }
+      }
     },
     "physical_dimensions": {
       "type": "object",
-      "description": "Physical dimensions and construction details.",
+      "description": "Geometric dimensions and material.",
+      "required": ["vc_diameter", "winding_height", "air_gap_height", "effective_diameter", "nominal_diameter", "baffle_cutout_diameter", "volume_occupied", "net_weight", "material"],
       "properties": {
-        "vc_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "winding_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "air_gap_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "effective_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "vc_diameter": { "$ref": "#/$defs/val_length_geom" },
+        "winding_height": { "$ref": "#/$defs/val_length_geom" },
+        "air_gap_height": { "$ref": "#/$defs/val_length_geom" },
+        "effective_diameter": { "$ref": "#/$defs/val_length_geom" },
         "nominal_diameter": { "type": "string" },
-        "baffle_cutout_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "volume_occupied": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "net_weight": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
-        "material": { "type": "string" }
-      },
-      "required": ["vc_diameter", "winding_height", "air_gap_height", "effective_diameter", "nominal_diameter", "baffle_cutout_diameter", "volume_occupied", "net_weight", "material"]
+        "baffle_cutout_diameter": { "$ref": "#/$defs/val_length_geom" },
+        "volume_occupied": { "$ref": "#/$defs/val_volume" },
+        "net_weight": { "$ref": "#/$defs/val_mass" },
+        "material": { "type": ["string", "null"] }
+      }
+    }
+  },
+  "$defs": {
+    "val_ohm": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["Ohm"] } },
+      "required": ["value", "unit"]
+    },
+    "val_db": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["dB"] } },
+      "required": ["value", "unit"]
+    },
+    "val_henry": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["H", "mH"] } },
+      "required": ["value", "unit"]
+    },
+    "val_watt": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["W"] } },
+      "required": ["value", "unit"]
+    },
+    "val_bl": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["Tm", "N/A"] } },
+      "required": ["value", "unit"]
+    },
+    "val_motor": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["N/sqrt(W)"] } },
+      "required": ["value", "unit"]
+    },
+    "val_magnetic": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["T", "G"] } },
+      "required": ["value", "unit"]
+    },
+    "val_freq": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["Hz", "kHz"] } },
+      "required": ["value", "unit"]
+    },
+    "val_mass": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["g", "kg", "oz", "lb"] } },
+      "required": ["value", "unit"]
+    },
+    "val_stiffness": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["N/m", "N/mm", "lb/in"] } },
+      "required": ["value", "unit"]
+    },
+    "val_compliance": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["m/N", "mm/N", "um/N"] } },
+      "required": ["value", "unit"]
+    },
+    "val_volume": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["L", "l", "dm3", "cm3", "m3", "in3", "ft3"] } },
+      "required": ["value", "unit"]
+    },
+    "val_resistance_mech": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["kg/s", "Ns/m"] } },
+      "required": ["value", "unit"]
+    },
+    "val_area": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["cm2", "m2", "in2", "ft2"] } },
+      "required": ["value", "unit"]
+    },
+    "val_length_excursion": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["mm", "cm", "m", "in"] } },
+      "required": ["value", "unit"]
+    },
+    "val_length_geom": {
+      "type": "object",
+      "properties": { "value": { "type": "number" }, "unit": { "type": "string", "enum": ["mm", "cm", "in"] } },
+      "required": ["value", "unit"]
     }
   }
 }
