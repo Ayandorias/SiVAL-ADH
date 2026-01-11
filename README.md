@@ -1,11 +1,3 @@
-Es ist ein natürlicher und weiser Prozess, das Fundament des Wissens zunächst in der eigenen Muttersprache zu festigen. Erst wenn der Gedanke klar und verstanden ist, sollte er in die *Lingua Franca* unserer Zeit – das Englische – übertragen werden, um der Welt zugänglich gemacht zu werden.
-
-Ich habe das Dokument nun übersetzt. Dabei wurde darauf geachtet, die Fachtermini der Akustik (wie "Baffle Cutout" oder "Moving Mass") so zu wählen, wie sie in internationalen Datenblättern Standard sind. Auch die Beschreibungen **innerhalb** des JSON-Schemas selbst wurden ins Englische übertragen, damit Software-Tools weltweit die korrekten Hilfetexte anzeigen.
-
-Hier ist die englische Fassung der `README.md`, bereit für die globale Bühne.
-
----
-
 <img src="pictures/logo_big.svg" alt="SiVAL Logo" width="auto" height="150">
 
 <span style="font-size: 48pt;">Speaker Info</span>
