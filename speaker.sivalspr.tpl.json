@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "general_info": {
+      "type": "object",
+      "description": "General and identifying information about the speaker driver.",
+      "properties": {
+        "uuid": { "type": "string" }, "brand": { "type": "string" }, "manufacturer": { "type": "string" },
+        "providedby": { "type": "string" }, "comment": { "type": "string" }, "model": { "type": "string" },
+        "indexed": { "type": "boolean" }, "speaker_type": { "type": "string" }
+      },
+      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed"]
+    },
+    "electrical_parameters": {
+      "type": "object",
+      "description": "Electrical characteristics of the speaker driver.",
+      "properties": {
+        "impedance": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "sensitivity": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "re": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "le": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "znom": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "pe": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "pmax": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "bl": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "motor_constant": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "flux_density": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
+      },
+      "required": ["impedance", "sensitivity", "re", "le", "znom", "pe", "pmax", "bl", "motor_constant", "flux_density"]
+    },
+    "thiele_small_parameters": {
+      "type": "object",
+      "description": "Thiele-Small (T-S) parameters for driver performance analysis.",
+      "properties": {
+        "fs": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "qms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "qes": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "qts": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "mms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "mmd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "stiffness": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "cms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "vas": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "rms": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "sd": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "xmax": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "xlim": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "vd": { "type": ["object", "null"], "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] }
+      },
+      "required": ["fs", "qms", "qes", "qts", "mms", "mmd", "stiffness", "cms", "vas", "rms", "sd", "xmax", "xlim", "vd"]
+    },
+    "physical_dimensions": {
+      "type": "object",
+      "description": "Physical dimensions and construction details.",
+      "properties": {
+        "vc_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "winding_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "air_gap_height": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "effective_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "nominal_diameter": { "type": "string" },
+        "baffle_cutout_diameter": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "volume_occupied": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "net_weight": { "type": "object", "properties": { "value": { "type": "number" }, "unit": { "type": "string" } }, "required": ["value", "unit"] },
+        "material": { "type": "string" }
+      },
+      "required": ["vc_diameter", "winding_height", "air_gap_height", "effective_diameter", "nominal_diameter", "baffle_cutout_diameter", "volume_occupied", "net_weight", "material"]
+    }
+  }
+}
