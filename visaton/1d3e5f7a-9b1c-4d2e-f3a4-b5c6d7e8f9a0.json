@@ -6,7 +6,8 @@
     "providedby": "SiVAL",
     "comment": "Daten aus roher Spezifikationsliste, umgerechnet in SI-Einheiten und an Schema angepasst. Doppelschwingspule 2x4 Ohm.",
     "model": "GF 200 - 2 x 4 Ohm",
-    "indexed": false
+    "indexed": false,
+    "speaker_type": "Woofer"
   },
   "electrical_parameters": {
     "impedance": { "value": 4.0, "unit": "Ohm" },

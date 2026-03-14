@@ -12,7 +12,7 @@
     "general_info": {
       "type": "object",
       "description": "Administrative identification of the driver.",
-      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed"],
+      "required": ["uuid", "brand", "manufacturer", "providedby", "comment", "model", "indexed", "speaker_type"],
       "properties": {
         "uuid": { "type": "string", "format": "uuid" },
         "brand": { "type": "string" },

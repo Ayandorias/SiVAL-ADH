@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/visaton/*.json"],
+      "url": "./speaker.sivalspr.tpl.json"
+    }
+  ]
+}
